@@ -1,2 +1,2 @@
+# Automação industrial e residencial-Ecossistema didático com Open Software e Open Hardware
 
-# Automação Industrial e Residêncial com Open Software e Open Hardware
