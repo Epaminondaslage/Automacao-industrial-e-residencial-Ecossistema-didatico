@@ -12,7 +12,6 @@
 * [Sistema Operacional Linux](#Sistema-Operacional-Linux)
 * [Programando os microcontroladores](#Programando-os-microcontroladores)
 * [ScadaBR](#ScadaBR)
-* [OpenHardware](#OpenHardware)
 * [SCILab](#SCILab)
 * [MBLogic](#MBLogic)
 * [Status do Projeto](#Status-do-Projeto)
