@@ -10,6 +10,7 @@
 
 * [Introdução](#Introdução)
 * [Sistema Operacional Linux](#Sistema-Operacional-Linux)
+* [Kit didáticos](#Kit-didáticos)
 * [Programando os microcontroladores](#Programando-os-microcontroladores)
 * [ScadaBR](#ScadaBR)
 * [SCILab](#SCILab)
@@ -42,7 +43,7 @@ Nestes repositórios, serão explanados os projetos e construção de dois núcl
 <td style="width: 50%;"><img src="/img/kit_iot.png" alt="" width="400" height="300" /></td>
 </tr>
 <tr>
-<td style="width: 50%;">Figura 1: Kit Open PLC</td>
+<td style="width: 50%;">Figura 1: Kit SBC Linux</td>
 <td style="width: 50%;">Figura 2: Kit IoT</td>
 </tr>
 </tbody>
@@ -60,7 +61,21 @@ Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Scrip
 
 * <a href="https://github.com/Epaminondaslage/SO_Ubuntu_SBC_OrangePI">SO Ubuntu SBC OrangePI</a> 
 * <a href="https://github.com/Epaminondaslage/SO_Debian_SBC_OrangePI">SO Debian SBC OrangePI</a>   
-    
+
+# Kit didáticos
+
+## Kit IoT
+
+asbdsjkdhjkshjdhjkshjkdhkjsd
+sdsdsdsdsdssdsd
+
+## Kit SBC Linux
+
+## Repositórios Disponíveis  
+
+* <a href="https://github.com/Epaminondaslage/Kit_IoT">Kit Internet das Coisas (IoT)</a> 
+* <a href="https://github.com/Epaminondaslage/Kit SBC Linux">Kit SBC Linux</a> 
+
 # Programando os microcontroladores
 
 ## Scripts em shell nas SBC's
@@ -106,14 +121,7 @@ No Repositóriorio "PPT das Aulas de Programação Arduino" encontra-se os slide
 
 # ScadaBR
 
-# Kit de IoT
 
-asbdsjkdhjkshjdhjkshjkdhkjsd
-sdsdsdsdsdssdsd
-
-## Repositório Disponível  
-
-* <a href="https://github.com/Epaminondaslage/Kit_IoT">Kit Internet das Coisas (IoT)</a> 
 
 # SCILab
 
