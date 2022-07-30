@@ -9,12 +9,12 @@
 # Índice deste Repositório
 
 * [Introdução](#Introdução)
-* [Sistema Operacional Linux](Sistema-Operacional-Linux)
-* [Progamando os microcontroladores](Progamando-os-microcontroladores)
-* [ScadaBR](ScadaBR)
-* [OpenHardware](OpenHardware)
-* [SCILab](SCILab)
-* [MBLogic](MBLogic)
+* [Sistema Operacional Linux](#Sistema-Operacional-Linux)
+* [Progamando os microcontroladores](#Progamando-os-microcontroladores)
+* [ScadaBR](#ScadaBR)
+* [OpenHardware](#OpenHardware)
+* [SCILab](#SCILab)
+* [MBLogic](#MBLogic)
 * [Status do Projeto](#Status-do-Projeto)
 * [Referências](#Referências)
 
@@ -54,9 +54,11 @@ Nestes repositórios, serão explanados os projetos e construção de dois núcl
 asbdsjkdhjkshjdhjkshjkdhkjsd
 sdsdsdsdsdssdsd
 
+## Repositórios Disponíveis
+
 * <a href="https://github.com/Epaminondaslage/SO_Ubuntu_SBC_OrangePI">SO Ubuntu SBC OrangePI</a> 
 * <a href="https://github.com/Epaminondaslage/SO_Debian_SBC_OrangePI">SO Debian SBC OrangePI</a>   
-*      
+    
 # Progamando os microcontroladores
 
 ## Scripts em shell nas SBC's
@@ -81,7 +83,9 @@ Em resumo, as principais aplicações dessa linguagem são:
     * realizar lotes de conclusão;
     * criar ambientes para programas;
     * executar programas.
-    
+
+## Repositório Disponível   
+
 * <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shell Script em Linux</a> 
 
 # ScadaBR
@@ -90,6 +94,8 @@ Em resumo, as principais aplicações dessa linguagem são:
 
 asbdsjkdhjkshjdhjkshjkdhkjsd
 sdsdsdsdsdssdsd
+
+## Repositório Disponível  
 
 * <a href="https://github.com/Epaminondaslage/Kit_IoT">Kit Internet das Coisas (IoT)</a> 
 
