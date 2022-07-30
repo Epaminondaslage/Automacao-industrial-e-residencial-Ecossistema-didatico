@@ -63,15 +63,11 @@ sdsdsdsdsdssdsd
 
 ## Scripts em shell nas SBC's
 
-Um script nada mais é do que um algoritmo projetado para realizar uma determinada tarefa, utilizando os comandos específicos do bash e os executáveis do sistema operacional.
-O que é bash?
+Um script nada mais é do que um algoritmo projetado para realizar uma determinada tarefa, utilizando os comandos específicos do bash e os executáveis do sistema operacional. Um shell é um programa que permite que o usuário se comunique diretamente com o sistema operacional. Ele recebe e interpreta comandos enviados pelo operador ao Kernel — outro programa que gerencia todas as comunicações para o hardware — para que a ação desejada possa ser executada.
 
 O Bourne Again Shell ou bash, para abreviar, é um shell do Unix, mas também é uma linguagem de programação capaz de realizar diversas tarefas que ajudam a economizar tempo e energia.
 
-Um shell é um programa que permite que o usuário se comunique diretamente com o sistema operacional. Ele recebe e interpreta comandos enviados pelo operador ao Kernel — outro programa que gerencia todas as comunicações para o hardware — para que a ação desejada possa ser executada.
-
-Assim como ocorre com outras linguagens de script, o bash permite que softwares-pai recebam aprimoramentos constantes de forma prática. Além dessa função básica, também é possível realizar diversas configurações de software e extrair dados.
-Com o bash, em vez de passar horas executando diversos comandos de forma manual, você pode simplesmente criar um script e a máquina realiza todo o trabalho sozinho.
+Assim como ocorre com outras linguagens de script, o bash permite que "softwares-pai" recebam aprimoramentos constantes de forma prática. Além dessa função básica, também é possível realizar diversas configurações de software e extrair dados.
 
 Em resumo, as principais aplicações dessa linguagem são:
 
@@ -82,11 +78,18 @@ Em resumo, as principais aplicações dessa linguagem são:
     * vincular programas existentes;
     * realizar lotes de conclusão;
     * criar ambientes para programas;
-    * executar programas.
+    * executar programas
+    * Acionar GPIO's.
 
-## Repositório Disponível   
+##  Editor OpenPLC
 
-* <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shell Script em Linux</a> 
+O Editor OpenPLC é o software que roda em seu computador (Windorws, Mac ou Linux) usado para criar programas para o PLC. É muito simples de usar e suporta todas as cinco linguagens definidas no padrão IEC 61131-3: Ladder Logic (LD), Function Block Diagram (FBD), Instruction List (IL), Structured Text (ST) e Sequential Function Chart ( SFC).
+
+## Repositórios Disponíveis   
+
+* <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shell Script em Linux</a>
+* <a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC Editor</a>
+
 
 # ScadaBR
 
