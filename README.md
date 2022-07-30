@@ -10,7 +10,7 @@
 
 * [Introdução](#Introdução)
 * [Sistema Operacional Linux](#Sistema-Operacional-Linux)
-* [Progamando os microcontroladores](#Progamando-os-microcontroladores)
+* [Programando os microcontroladores](#Programando-os-microcontroladores)
 * [ScadaBR](#ScadaBR)
 * [OpenHardware](#OpenHardware)
 * [SCILab](#SCILab)
@@ -51,15 +51,16 @@ Nestes repositórios, serão explanados os projetos e construção de dois núcl
 
 # Sistema Operacional Linux
 
-asbdsjkdhjkshjdhjkshjkdhkjsd
-sdsdsdsdsdssdsd
+O Orange Pi, que é mais uma SBC (Single-Board Computers) disponibilizada no mercado, conta com um processador ARM e pode ser utilizada com varias distribuições do sistema operacional GNU/Linux. Utilizando o SO de código aberto (opensource) Linux, podemos fazer praticamente qualquer coisa com o Orange Pi. Como um computador, servidor para pequenas aplicações, servidor doméstico (automação residencial), videogame retrô, central de mídia (filmes, músicas, etc) e é claro um PLC.
+
+<td style="width: 70%;"><img src="/img/SO Linux.png" width="70%" /></td>
 
 ## Repositórios Disponíveis
 
 * <a href="https://github.com/Epaminondaslage/SO_Ubuntu_SBC_OrangePI">SO Ubuntu SBC OrangePI</a> 
 * <a href="https://github.com/Epaminondaslage/SO_Debian_SBC_OrangePI">SO Debian SBC OrangePI</a>   
     
-# Progamando os microcontroladores
+# Programando os microcontroladores
 
 ## Scripts em shell nas SBC's
 
@@ -85,10 +86,16 @@ Em resumo, as principais aplicações dessa linguagem são:
 
 O Editor OpenPLC é o software que roda em seu computador (Windorws, Mac ou Linux) usado para criar programas para o PLC. É muito simples de usar e suporta todas as cinco linguagens definidas no padrão IEC 61131-3: Ladder Logic (LD), Function Block Diagram (FBD), Instruction List (IL), Structured Text (ST) e Sequential Function Chart ( SFC).
 
+## IDE Arduino
+
+
+
 ## Repositórios Disponíveis   
 
 * <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shell Script em Linux</a>
 * <a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC Editor</a>
+* <a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduinor</a>
+* 
 
 
 # ScadaBR
