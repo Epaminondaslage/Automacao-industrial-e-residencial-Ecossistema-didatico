@@ -53,7 +53,7 @@ Nestes repositórios, serão explanados os projetos e construção de dois núcl
 
 O Orange Pi, que é mais uma SBC (Single-Board Computers) disponibilizada no mercado, conta com um processador ARM e pode ser utilizada com varias distribuições do sistema operacional GNU/Linux. Utilizando o SO de código aberto (opensource) Linux, podemos fazer praticamente qualquer coisa com o Orange Pi. Como um computador, servidor para pequenas aplicações, servidor doméstico (automação residencial), videogame retrô, central de mídia (filmes, músicas, etc) e é claro um PLC.
 
-<td style="width: 70%;"><img src="/img/SO Linux.png" width="70%" /></td>
+<td style="width: 70%;"><img src="/img/SO.png" width="70%" /></td>
 
 ## Repositórios Disponíveis
 
@@ -95,7 +95,7 @@ O Editor OpenPLC é o software que roda em seu computador (Windorws, Mac ou Linu
 * <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shell Script em Linux</a>
 * <a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC Editor</a>
 * <a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduinor</a>
-* 
+
 
 
 # ScadaBR
