@@ -89,13 +89,18 @@ O Editor OpenPLC é o software que roda em seu computador (Windorws, Mac ou Linu
 
 ## IDE Arduino
 
+O Arduino IDE é o software Arduino gratuito que facilita o desenvolvimento e a gravação de códigos diretamente no microcontrolador. Através deste, é possível realizar o Upload dos códigos para a placa tanto em sistemas operacionais Windows quanto Linux, demonstrando sua funcionalidade e versatilidade.
+
+As funções da IDE do Arduino são basicamente três: permitir o desenvolvimento do software, de enviá-lo à placa para que possa ser executado e de interagir com a placa Arduino.
+
+No Repositóriorio "PPT das Aulas de Programação Arduino" encontra-se os slides do Curso básico de programação com Arduíno ministrado na Disciplina Informática Aplicada , em caráter adicional ao programa do curso.
 
 
 ## Repositórios Disponíveis   
 
 * <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shell Script em Linux</a>
 * <a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC Editor</a>
-* <a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduinor</a>
+* <a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduino</a>
 
 
 
