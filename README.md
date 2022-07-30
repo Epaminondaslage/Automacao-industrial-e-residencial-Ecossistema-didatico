@@ -10,7 +10,7 @@
 
 * [Introdução](#Introdução)
 * [Sistema Operacional Linux](Sistema-Operacional-Linux)
-* [OpenPLC](OpenPLC)
+* [Progamando os microcontroladores](Progamando-os-microcontroladores)
 * [ScadaBR](ScadaBR)
 * [OpenHardware](OpenHardware)
 * [SCILab](SCILab)
@@ -57,11 +57,32 @@ sdsdsdsdsdssdsd
 * <a href="https://github.com/Epaminondaslage/SO_Ubuntu_SBC_OrangePI">SO Ubuntu SBC OrangePI</a> 
 * <a href="https://github.com/Epaminondaslage/SO_Debian_SBC_OrangePI">SO Debian SBC OrangePI</a>   
 *      
-# OpenPLC
+# Progamando os microcontroladores
 
-##  Scripts em shell
+## Scripts em shell nas SBC's
 
 Um script nada mais é do que um algoritmo projetado para realizar uma determinada tarefa, utilizando os comandos específicos do bash e os executáveis do sistema operacional.
+O que é bash?
+
+O Bourne Again Shell ou bash, para abreviar, é um shell do Unix, mas também é uma linguagem de programação capaz de realizar diversas tarefas que ajudam a economizar tempo e energia.
+
+Um shell é um programa que permite que o usuário se comunique diretamente com o sistema operacional. Ele recebe e interpreta comandos enviados pelo operador ao Kernel — outro programa que gerencia todas as comunicações para o hardware — para que a ação desejada possa ser executada.
+
+Assim como ocorre com outras linguagens de script, o bash permite que softwares-pai recebam aprimoramentos constantes de forma prática. Além dessa função básica, também é possível realizar diversas configurações de software e extrair dados.
+Com o bash, em vez de passar horas executando diversos comandos de forma manual, você pode simplesmente criar um script e a máquina realiza todo o trabalho sozinho.
+
+Em resumo, as principais aplicações dessa linguagem são:
+
+    * manipular arquivos;
+    * monitorar o sistema operacional;
+    * realizar automação de processos de compilação de código;
+    * executar backups de rotina;
+    * vincular programas existentes;
+    * realizar lotes de conclusão;
+    * criar ambientes para programas;
+    * executar programas.
+    
+* <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shell Script em Linux</a> 
 
 # ScadaBR
 
