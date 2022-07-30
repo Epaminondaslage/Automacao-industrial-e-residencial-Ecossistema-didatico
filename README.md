@@ -39,8 +39,8 @@ Nestes repositórios, serão explanados os projetos e construção de dois núcl
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/img/kit openplc.png" alt="" width="500" height="500" /></td>
-<td style="width: 50%;"><img src="kit_iot.png" alt="" width="500" height="500" /></td>
+<td style="width: 50%;"><img src="/img/kit openplc.png" alt="" width="300" height="300" /></td>
+<td style="width: 50%;"><img src="/img/kit_iot.png" alt="" width="300" height="300" /></td>
 </tr>
 <tr>
 <td style="width: 50%;">Figura 1: Kit Open PLC</td>
