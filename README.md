@@ -50,8 +50,12 @@ Nestes repositórios, serão explanados os projetos e construção de dois núcl
 </table>
 
 # Sistema Operacional Linux
-* <a href="../SO_Ubuntu_SBC_OrangePI">/SO Ubuntu SBC OrangePI</a> 
-* <a href="../SO_Debian_SBC_OrangePI">/SO Debian SBC OrangePI</a>   
+
+asbdsjkdhjkshjdhjkshjkdhkjsd
+sdsdsdsdsdssdsd
+
+* <a href="https://github.com/Epaminondaslage/SO_Ubuntu_SBC_OrangePI">SO Ubuntu SBC OrangePI</a> 
+* <a href="https://github.com/Epaminondaslage/SO_Debian_SBC_OrangePI">SO Debian SBC OrangePI</a>   
 *      
 # OpenPLC
 
@@ -62,7 +66,7 @@ Nestes repositórios, serão explanados os projetos e construção de dois núcl
 asbdsjkdhjkshjdhjkshjkdhkjsd
 sdsdsdsdsdssdsd
 
-* <a href="../Epaminondaslage/Kit_IoT">Kits IoT</a> 
+* <a href="https://github.com/Epaminondaslage/Kit_IoT">Kit Internet das Coisas (IoT)</a> 
 
 # SCILab
 
