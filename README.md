@@ -113,6 +113,15 @@ sdsdsdsdsdssdsd
 
 # SCILab
 
+O Scilab é um software científico para computação numérica, de codigo aberto, semelhante ao MATLAB que fornece um poderoso ambiente computacional aberto para aplicações científicas.
+
+Possui uma linguagem de programação de alto nível, orientada à análise numérica. A linguagem provê um ambiente para interpretação, com diversas ferramentas numéricas. Algoritmos complexos podem ser criados em poucas linhas de código, em comparação com outras linguagens como C ou C++.
+
+## Repositório Disponível  
+
+* <a href="https://github.com/Epaminondaslage/Lab_Inf_Aplicada">Laboratório de Informática Aplicada (IoT)</a> 
+
+
 # MBLogic
 
 # Status do Projeto
