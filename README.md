@@ -6,7 +6,7 @@
 
 <td style="width: 50%;"><img src="/img/Ecossistema-Open-Automação.png" width="50%" /></td>
 
-## Índice deste Repositório
+# Índice deste Repositório
 
 * [Introdução](#Introdução)
 * [Sistema Operacional Linux](Sistema-Operacional-Linux)
@@ -58,6 +58,10 @@ sdsdsdsdsdssdsd
 * <a href="https://github.com/Epaminondaslage/SO_Debian_SBC_OrangePI">SO Debian SBC OrangePI</a>   
 *      
 # OpenPLC
+
+##  Scripts em shell
+
+Um script nada mais é do que um algoritmo projetado para realizar uma determinada tarefa, utilizando os comandos específicos do bash e os executáveis do sistema operacional.
 
 # ScadaBR
 
