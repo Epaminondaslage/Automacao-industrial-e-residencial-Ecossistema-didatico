@@ -6,7 +6,7 @@
 
 <td style="width: 50%;"><img src="/img/Ecossistema-Open-Automação.png" width="50%" /></td>
 
-# Índice deste Repositório
+## Índice deste Repositório
 
 * [Introdução](#Introdução)
 * [Sistema Operacional Linux](Sistema-Operacional-Linux)
@@ -18,7 +18,7 @@
 * [Status do Projeto](#Status-do-Projeto)
 * [Referências](#Referências)
 
-# Introdução
+## Introdução
 
 A utilização de sistemas reais em ambiente acadêmico nem sempre é aplicável devido a fatores como a dimensão do espaço físico ou dos aquipamentos, características técnicas, requisitos elétricos, condições de segurança física e o custo e disponibilidade de recursos financeiros associado a estes tipos de montagens. Assim e para superar estas condicionantes, opta-se a kits didáticos, que são desenvolvidos de forma a terem um funcionamento semelhante aos sistemas reais.
 
@@ -49,18 +49,25 @@ Nestes repositórios, serão explanados os projetos e construção de dois núcl
 </tbody>
 </table>
 
-# Sistema Operacional Linux
+## Sistema Operacional Linux
+* <a href="/SO_Ubuntu_SBC_OrangePI">/SO Ubuntu SBC OrangePI</a> 
+* <a href="/SO_Debian_SBC_OrangePI">/SO Debian SBC OrangePI</a>   
+*      
+## OpenPLC
 
-# OpenPLC
+## ScadaBR
 
-# ScadaBR
+## Kit de IoT
 
-# OpenHardware
+asbdsjkdhjkshjdhjkshjkdhkjsd
+sdsdsdsdsdssdsd
 
-# SCILab
+* <a href="/Epaminondaslage/Kit_IoT">Kits IoT</a> 
 
-# MBLogic
+## SCILab
 
-# Status do Projeto
+## MBLogic
+
+## Status do Projeto
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
