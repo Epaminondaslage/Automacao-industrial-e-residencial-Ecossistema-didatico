@@ -131,6 +131,11 @@ Um projeto no Arduino é chamado de sketch, e consiste tipicamente em duas parte
 
 # ScadaBR
 
+a desenvolver.....
+
+## Repositório Disponível  
+
+* <a href="https://github.com/Epaminondaslage/ScadaBR">ScadaBR</a>
 
 
 # SCILab
@@ -145,6 +150,11 @@ Possui uma linguagem de programação de alto nível, orientada à análise num�
 
 
 # MBLogic
+ a desenvolver....
+ 
+ ## Repositório Disponível  
+
+* <a href="https://github.com/Epaminondaslage/MBLogic">MBLogic</a>
 
 # Status do Projeto
 
