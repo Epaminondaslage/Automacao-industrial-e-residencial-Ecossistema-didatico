@@ -10,9 +10,9 @@
 
 * [Introdução](#Introdução)
 * [Sistema Operacional Linux](#Sistema-Operacional-Linux)
+* [Kit didáticos](#Kit-didáticos)
 * [Programando os microcontroladores](#Programando-os-microcontroladores)
 * [ScadaBR](#ScadaBR)
-* [OpenHardware](#OpenHardware)
 * [SCILab](#SCILab)
 * [MBLogic](#MBLogic)
 * [Status do Projeto](#Status-do-Projeto)
@@ -40,10 +40,10 @@ Nestes repositórios, serão explanados os projetos e construção de dois núcl
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/img/kit openplc.png" alt="" width="400" height="300" /></td>
-<td style="width: 50%;"><img src="/img/kit_iot.png" alt="" width="300" height="300" /></td>
+<td style="width: 50%;"><img src="/img/kit_iot.png" alt="" width="400" height="300" /></td>
 </tr>
 <tr>
-<td style="width: 50%;">Figura 1: Kit Open PLC</td>
+<td style="width: 50%;">Figura 1: Kit SBC Linux</td>
 <td style="width: 50%;">Figura 2: Kit IoT</td>
 </tr>
 </tbody>
@@ -53,13 +53,29 @@ Nestes repositórios, serão explanados os projetos e construção de dois núcl
 
 O Orange Pi, que é mais uma SBC (Single-Board Computers) disponibilizada no mercado, conta com um processador ARM e pode ser utilizada com varias distribuições do sistema operacional GNU/Linux. Utilizando o SO de código aberto (opensource) Linux, podemos fazer praticamente qualquer coisa com o Orange Pi. Como um computador, servidor para pequenas aplicações, servidor doméstico (automação residencial), videogame retrô, central de mídia (filmes, músicas, etc) e é claro um PLC.
 
-<td style="width: 70%;"><img src="/img/SO Linux.png" width="70%" /></td>
+<td style="width: 40%;"><img src="/img/SO.png" width="40%" /></td>
+
+Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Script e o Debian para a instalação do OpenPLC runtime.
 
 ## Repositórios Disponíveis
 
 * <a href="https://github.com/Epaminondaslage/SO_Ubuntu_SBC_OrangePI">SO Ubuntu SBC OrangePI</a> 
 * <a href="https://github.com/Epaminondaslage/SO_Debian_SBC_OrangePI">SO Debian SBC OrangePI</a>   
-    
+
+# Kit didáticos
+
+## Kit IoT
+
+asbdsjkdhjkshjdhjkshjkdhkjsd
+sdsdsdsdsdssdsd
+
+## Kit SBC Linux
+
+## Repositórios Disponíveis  
+
+* <a href="https://github.com/Epaminondaslage/Kit_IoT">Kit Internet das Coisas (IoT)</a> 
+* <a href="https://github.com/Epaminondaslage/Kit-SBC-Linux">Kit SBC Linux</a> 
+
 # Programando os microcontroladores
 
 ## Scripts em shell nas SBC's
@@ -88,28 +104,36 @@ O Editor OpenPLC é o software que roda em seu computador (Windorws, Mac ou Linu
 
 ## IDE Arduino
 
+O Arduino IDE é o software Arduino gratuito que facilita o desenvolvimento e a gravação de códigos diretamente no microcontrolador. Através deste, é possível realizar o Upload dos códigos para a placa tanto em sistemas operacionais Windows quanto Linux, demonstrando sua funcionalidade e versatilidade.
+
+As funções da IDE do Arduino são basicamente três: permitir o desenvolvimento do software, de enviá-lo à placa para que possa ser executado e de interagir com a placa Arduino.
+
+No Repositóriorio "PPT das Aulas de Programação Arduino" encontra-se os slides do Curso básico de programação com Arduíno ministrado na Disciplina Informática Aplicada , em caráter adicional ao programa do curso.
+
+Um projeto no Arduino é chamado de sketch, e consiste tipicamente em duas partes (rotinas): a rotina de setup, que inicializa o sketch, e a rotina de loop, que normalmente contém o código principal do programa (é como a função main() da linguagem C). No Reposiótio "Sketch Arduino" disponibilizamos vários exemplos para sere utilizados pelos alunos.
 
 
 ## Repositórios Disponíveis   
 
 * <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shell Script em Linux</a>
 * <a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC Editor</a>
-* <a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduinor</a>
-* 
-
+* <a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduino</a>
+* <a href="https://github.com/Epaminondaslage/Arduino-Uno">Sketch Arduino</a>
 
 # ScadaBR
 
-# Kit de IoT
 
-asbdsjkdhjkshjdhjkshjkdhkjsd
-sdsdsdsdsdssdsd
+
+# SCILab
+
+O Scilab é um software científico para computação numérica, de codigo aberto, semelhante ao MATLAB que fornece um poderoso ambiente computacional aberto para aplicações científicas.
+
+Possui uma linguagem de programação de alto nível, orientada à análise numérica. A linguagem provê um ambiente para interpretação, com diversas ferramentas numéricas. Algoritmos complexos podem ser criados em poucas linhas de código, em comparação com outras linguagens como C ou C++.
 
 ## Repositório Disponível  
 
-* <a href="https://github.com/Epaminondaslage/Kit_IoT">Kit Internet das Coisas (IoT)</a> 
+* <a href="https://github.com/Epaminondaslage/Lab_Inf_Aplicada">Laboratório de Informática Aplicada (IoT)</a> 
 
-# SCILab
 
 # MBLogic
 
