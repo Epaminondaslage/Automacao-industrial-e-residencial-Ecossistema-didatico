@@ -6,7 +6,7 @@
 
 <td style="width: 50%;"><img src="/img/Ecossistema-Open-Automação.png" width="50%" /></td>
 
-# Índice deste Repositório
+# Índice 
 
 * [Introdução](#Introdução)
 * [Sistema Operacional Linux](#Sistema-Operacional-Linux)
@@ -53,14 +53,23 @@ Nestes repositórios, serão explanados os projetos e construção de dois núcl
 
 O Orange Pi, que é mais uma SBC (Single-Board Computers) disponibilizada no mercado, conta com um processador ARM e pode ser utilizada com varias distribuições do sistema operacional GNU/Linux. Utilizando o SO de código aberto (opensource) Linux, podemos fazer praticamente qualquer coisa com o Orange Pi. Como um computador, servidor para pequenas aplicações, servidor doméstico (automação residencial), videogame retrô, central de mídia (filmes, músicas, etc) e é claro um PLC.
 
-<td style="width: 40%;"><img src="/img/SO.png" width="40%" /></td>
+<table border="0">
+<tbody>
+<tr>
+<td><img style="display: block; margin-left: auto; margin-right: auto;" src="/img/SO.png" width="40%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 3: SO Linux do SBC.</td>
+</tr>
+</tbody>
+</table>
 
 Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Script e o Debian para a instalação do OpenPLC runtime.
 
 ## Repositórios Disponíveis
 
 * <a href="https://github.com/Epaminondaslage/SO_Ubuntu_SBC_OrangePI">SO Ubuntu SBC OrangePI</a> 
-* <a href="https://github.com/Epaminondaslage/SO_Debian_SBC_OrangePI">SO Debian SBC OrangePI</a>   
+* <a href="https://github.com/Epaminondaslage/SO-Debian-SBC-OrangePI">SO Debian SBC OrangePI</a>   
 
 # Kit didáticos
 
@@ -73,7 +82,7 @@ sdsdsdsdsdssdsd
 
 ## Repositórios Disponíveis  
 
-* <a href="https://github.com/Epaminondaslage/Kit_IoT">Kit Internet das Coisas (IoT)</a> 
+* <a href="https://github.com/Epaminondaslage/Kit-IoT">Kit Internet das Coisas (IoT)</a> 
 * <a href="https://github.com/Epaminondaslage/Kit-SBC-Linux">Kit SBC Linux</a> 
 
 # Programando os microcontroladores
@@ -122,6 +131,11 @@ Um projeto no Arduino é chamado de sketch, e consiste tipicamente em duas parte
 
 # ScadaBR
 
+a desenvolver.....
+
+## Repositório Disponível  
+
+* <a href="https://github.com/Epaminondaslage/ScadaBR">ScadaBR</a>
 
 
 # SCILab
@@ -136,6 +150,11 @@ Possui uma linguagem de programação de alto nível, orientada à análise num�
 
 
 # MBLogic
+ a desenvolver....
+ 
+ ## Repositório Disponível  
+
+* <a href="https://github.com/Epaminondaslage/MBLogic">MBLogic</a>
 
 # Status do Projeto
 
