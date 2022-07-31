@@ -53,7 +53,16 @@ Nestes repositórios, serão explanados os projetos e construção de dois núcl
 
 O Orange Pi, que é mais uma SBC (Single-Board Computers) disponibilizada no mercado, conta com um processador ARM e pode ser utilizada com varias distribuições do sistema operacional GNU/Linux. Utilizando o SO de código aberto (opensource) Linux, podemos fazer praticamente qualquer coisa com o Orange Pi. Como um computador, servidor para pequenas aplicações, servidor doméstico (automação residencial), videogame retrô, central de mídia (filmes, músicas, etc) e é claro um PLC.
 
-<td style="width: 40%;"><img src="/img/SO.png" width="40%" /></td>
+<table border="0">
+<tbody>
+<tr>
+<td><img style="display: block; margin-left: auto; margin-right: auto;" src="/img/SO.png" width="40%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 3: SO Linux do SBC.</td>
+</tr>
+</tbody>
+</table>
 
 Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Script e o Debian para a instalação do OpenPLC runtime.
 
