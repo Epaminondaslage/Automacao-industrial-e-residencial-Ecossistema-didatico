@@ -6,7 +6,7 @@
 
 <td style="width: 50%;"><img src="/img/Ecossistema-Open-Automação.png" width="50%" /></td>
 
-# Índice desse Repositório
+# Índice 
 
 * [Introdução](#Introdução)
 * [Sistema Operacional Linux](#Sistema-Operacional-Linux)
