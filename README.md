@@ -69,7 +69,7 @@ Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Scrip
 ## Repositórios Disponíveis
 
 * <a href="https://github.com/Epaminondaslage/SO_Ubuntu_SBC_OrangePI">SO Ubuntu SBC OrangePI</a> 
-* <a href="https://github.com/Epaminondaslage/SO_Debian_SBC_OrangePI">SO Debian SBC OrangePI</a>   
+* <a href="https://github.com/Epaminondaslage/SO-Debian-SBC-OrangePI">SO Debian SBC OrangePI</a>   
 
 # Kit didáticos
 
