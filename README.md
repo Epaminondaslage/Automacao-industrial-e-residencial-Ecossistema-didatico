@@ -75,10 +75,16 @@ Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Scrip
 
 ## Kit IoT
 
-asbdsjkdhjkshjdhjkshjkdhkjsd
-sdsdsdsdsdssdsd
+O KIT IoT foi concebido para o aprendizado básico do microcontrolador Arduino, Wemos D1 e Esp32 utilizando sensores diversos. Reuniu-se 37 sensores e módulos básicos para que estes consigam captar inumeros fenômenos físicos e químicos. Neste kit, existem sensores/atuadores digitais e analógicos e também alguns módulos especiais, como ultrassom, Bluetooth, módulo de aceleração, WIFI, entre outros.
+
+Para cada sensor, desenvolveu-se um diagrama de conexão e um código de exemplo. Portanto, mesmo o aluno seja totalmente novo, ele pode começar facilmente. Os códigos de exemplo para este kit de sensores são baseados no ARDUINO, porque é de código aberto e fácil de usar. Caso o aluno tenha conhecimentos prévios, também pode aplicar este kit a outras plataformas de desenvolvimento de outros MCU e embarcados.
+
+Este Kit foi concebido para funcionar como endpoint do Kit SBC Linux.
 
 ## Kit SBC Linux
+
+* Colocar a descrição do kit
+
 
 ## Repositórios Disponíveis  
 
