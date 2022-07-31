@@ -82,7 +82,7 @@ sdsdsdsdsdssdsd
 
 ## Repositórios Disponíveis  
 
-* <a href="https://github.com/Epaminondaslage/Kit_IoT">Kit Internet das Coisas (IoT)</a> 
+* <a href="https://github.com/Epaminondaslage/Kit-IoT">Kit Internet das Coisas (IoT)</a> 
 * <a href="https://github.com/Epaminondaslage/Kit-SBC-Linux">Kit SBC Linux</a> 
 
 # Programando os microcontroladores
