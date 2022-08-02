@@ -83,7 +83,7 @@ Este Kit foi concebido para funcionar como endpoint do Kit SBC Linux.
 
 ## Kit SBC Linux
 
-* Colocar a descrição do kit
+A base de sustentação para as placas do KITSBC Linux foi desenvovolvida construida em uma impressora 3D. Possui dimensões de 245x180x15 mm. Possui um slot para o OrangePi One, uma placa de ensaios tipo protoboard, um módulo de 8 relés e um módulo de 5 push-botons. O coração do Kit SBC Linux é o OrangePi One. O Orange Pi, que é mais uma SBC (Single-Board Computers) disponibilizada no mercado, conta com um processador ARM e pode ser utilizada com varias distribuições do sistema operacional GNU/Linux. Foi gerado duas versões de sistemas operacionais Linux (Ubuntu e o Debian)para serem utilizados conforme a aplicação.  
 
 
 ## Repositórios Disponíveis  
