@@ -135,14 +135,17 @@ Um projeto no Arduino é chamado de sketch, e consiste tipicamente em duas parte
 * <a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC Editor</a>
 * <a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduino</a>
 * <a href="https://github.com/Epaminondaslage/Arduino-Uno">Sketch Arduino</a>
+
+
 # Modbus
 
 Modbus é um protocolo de comunicação serial desenvolvido pela Modicon e publicado pela Modicon® em 1979 para utilização em controladores lógico programáveis (CLPs). Em termos simples, é um método usado para transmitir informação sobre redes seriais entre dispositivos eletrônicos.
 
-a desenvolver.....https://pt.wikipedia.org/wiki/Modbus
+a desenvolver.....
 
 ## Repositório Disponível  
-
+* https://pt.wikipedia.org/wiki/Modbus
+* https://openplcproject.com/docs/2-5-modbus-addressing/
 * <a href="https://github.com/Epaminondaslage/Modbus">ScadaBR</a>
 
 # ScadaBR
