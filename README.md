@@ -132,7 +132,7 @@ Um projeto no Arduino é chamado de sketch, e consiste tipicamente em duas parte
 ## Repositórios Disponíveis   
 
 * <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shell Script em Linux</a>
-* <a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC Editor</a>
+* <a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC</a>
 * <a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduino</a>
 * <a href="https://github.com/Epaminondaslage/Arduino-Uno">Sketch Arduino</a>
 
