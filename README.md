@@ -3,6 +3,8 @@
 <p><strong><span style="color: #0000ff;">Ecossistema didático com Open Software e Open Hardware</span></strong></p>
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
 <a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
+<p><strong><span style="color: #0000ff;">Prof Danilo Freitas Melo</span></strong></p>
+<a href="http://lattes.cnpq.br/3410712703972723)"> Currículo Lattes MELO, D. F.</a> 
 
 <td style="width: 50%;"><img src="/img/Ecossistema-Open-Automação.png" width="50%" /></td>
 
@@ -13,9 +15,7 @@
 * [Kit didáticos](#Kit-didáticos)
 * [Programando os microcontroladores](#Programando-os-microcontroladores)
 * [Modbus](#modbus)
-* [ScadaBR](#ScadaBR)
 * [SCILab](#SCILab)
-* [MBLogic](#MBLogic)
 * [Status do Projeto](#Status-do-Projeto)
 * [Referências](#Referências)
 
@@ -141,21 +141,10 @@ Um projeto no Arduino é chamado de sketch, e consiste tipicamente em duas parte
 
 Modbus é um protocolo de comunicação serial desenvolvido pela Modicon e publicado pela Modicon® em 1979 para utilização em controladores lógico programáveis (CLPs). Em termos simples, é um método usado para transmitir informação sobre redes seriais entre dispositivos eletrônicos.
 
-a desenvolver.....
-
 ## Repositório Disponível  
 * https://pt.wikipedia.org/wiki/Modbus
 * https://openplcproject.com/docs/2-5-modbus-addressing/
 * <a href="https://github.com/Epaminondaslage/Modbus">ScadaBR</a>
-
-# ScadaBR
-
-a desenvolver.....
-
-## Repositório Disponível  
-
-* <a href="https://github.com/Epaminondaslage/ScadaBR">ScadaBR</a>
-
 
 # SCILab
 
@@ -166,14 +155,6 @@ Possui uma linguagem de programação de alto nível, orientada à análise num�
 ## Repositório Disponível  
 
 * <a href="https://github.com/Epaminondaslage/Lab_Inf_Aplicada">Laboratório de Informática Aplicada (IoT)</a> 
-
-
-# MBLogic
- a desenvolver....
- 
- ## Repositório Disponível  
-
-* <a href="https://github.com/Epaminondaslage/MBLogic">MBLogic</a>
 
 # Status do Projeto
 
