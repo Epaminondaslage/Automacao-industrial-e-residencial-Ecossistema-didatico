@@ -43,8 +43,6 @@ Ao adotar plataformas os usuários podem integrar e gerenciar dispositivos popul
 Essa plataforma permite personalizar e automatizar tarefas residenciais, proporcionando conveniência e eficiência aos usuários. Por exemplo, é possível programar as luzes da casa para ligar automaticamente ao anoitecer, ajustar a temperatura do termostato quando a família estiver chegando em casa ou receber notificações em tempo real sobre eventos de segurança.
 
 No ítem Linguagem de programação em sistemas embarcados tais como Arduino, ESP8266 e ESP32  tem sua IDE escrita em Java/C++. Para a programação do OrangePi utiliza-se o C, Python, que conta com várias bibliotecas específicas, além Shell script em Linux. Cada uma é utilizada  em diversos projetos de automação conforme sua necessidade.
-
-Nestes repositórios, serão explanados os projetos e construção de dois núcleos (shield's). O primeiro que irá converter a plataforma OrangePi One em um controlador lógico programável com funcionalidades básicas (Figura 1) e o segundo contendo microcontroladorres, tais como Arduino Uno R3, ESP 8266, Wemos D1, ESP32,(Figura 2) que serão integrados com end-point de hardware aberto ao primeiro kit ou como desenvolvimento de projetos de automação residêncial e de IoT. Esses protótipos, auxiliado por software open-source, possibilita criar um ambiente versátil para controle e automação industrial e residencial assim como o acesso a sensores amplamente utilizados no ambiente de IoT. A metodologia proposta visa explorar os principais conceitos de eletrônica básica, programação de códigos de controle, comunicação entre dispositivos e análise de dados. 
  
 # Kit didáticos
 
@@ -80,7 +78,7 @@ A base de sustentação para as placas do KITSBC Linux foi desenvovolvida constr
 
 # Sistema Operacional Linux
 
-O Orange Pi, que é mais uma SBC (Single-Board Computers) disponibilizada no mercado, conta com um processador ARM e pode ser utilizada com varias distribuições do sistema operacional GNU/Linux. Utilizando o SO de código aberto (opensource) Linux, podemos fazer praticamente qualquer coisa com o Orange Pi. Como um computador, servidor para pequenas aplicações, servidor doméstico (automação residencial), videogame retrô, central de mídia (filmes, músicas, etc) e é claro um PLC.
+O Orange Pi é uma Single-Board Computer (SBC), disponível no mercado, que possui um processador ARM e é compatível com várias distribuições do sistema operacional GNU/Linux. Com o uso do sistema operacional de código aberto Linux, o Orange Pi oferece uma ampla gama de possibilidades de uso. Ele pode ser utilizado como um computador completo, servidor para aplicações de pequeno porte, servidor doméstico para automação residencial, videogame retrô e central de mídia para filmes, músicas, entre outros.
 
 <table border="0">
 <tbody>
@@ -106,9 +104,7 @@ Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Scrip
 
 Um script nada mais é do que um algoritmo projetado para realizar uma determinada tarefa, utilizando os comandos específicos do bash e os executáveis do sistema operacional. Um shell é um programa que permite que o usuário se comunique diretamente com o sistema operacional. Ele recebe e interpreta comandos enviados pelo operador ao Kernel — outro programa que gerencia todas as comunicações para o hardware — para que a ação desejada possa ser executada.
 
-O Bourne Again Shell ou bash, para abreviar, é um shell do Unix, mas também é uma linguagem de programação capaz de realizar diversas tarefas que ajudam a economizar tempo e energia.
-
-Assim como ocorre com outras linguagens de script, o bash permite que "softwares-pai" recebam aprimoramentos constantes de forma prática. Além dessa função básica, também é possível realizar diversas configurações de software e extrair dados.
+O Bourne Again Shell ou bash, para abreviar, é um shell do Unix, mas também é uma linguagem de programação capaz de realizar diversas tarefas que ajudam a economizar tempo e energia. Assim como ocorre com outras linguagens de script, o bash permite que "softwares-pai" recebam aprimoramentos constantes de forma prática. Além dessa função básica, também é possível realizar diversas configurações de software e extrair dados.
 
 Uma vantagem do shell script é que ele pode ser facilmente combinado com outros comandos e utilitários do Linux. Isso permite que os usuários aproveitem a vasta gama de recursos disponíveis no sistema operacional e em suas ferramentas de linha de comando.
 
@@ -182,7 +178,6 @@ Um projeto no Arduino é chamado de sketch, e consiste tipicamente em duas parte
 
 ## Repositórios Disponíveis   
 
-* <a href="https://github.com/Epaminondaslage/Ssssssssssss">Ssssssssss</a>
 * <a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduino</a>
 * <a href="https://github.com/Epaminondaslage/Arduino-Uno">Sketch Arduino</a>
 
