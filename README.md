@@ -14,7 +14,7 @@
 * [Introdução](#Introdução)
 * [Kit didáticos](#Kit-didáticos)
 * [Sistema Operacional Linux](#Sistema-Operacional-Linux)
-* [Programando os microcontroladores](#Programando-os-microcontroladores)
+* [Introdução ao Shell Script no Linux](#Introdução-a-Shell-Script-no-Linux)
 * [Automação Industrial - Open PLC](#Automação-Industrial-Open-PLC)
 * [Automação Residencial](#Automação-Residencial)
 * [IDE Arduino](#IDE-Arduino)
@@ -36,7 +36,13 @@ As Linguagens de programação nada mais são do que conjuntos de instruções p
 
 Na automação industrial, que além do hardware existe uma outra componente importante, o software. O software desenvolve tarefas de programação e controle e gerenciamento de hardware por meio de linguagens específcas. Linguagens de programação para a automação industrial foram padronizadas por meio da norma IEC 61131-3, publicada pela Comissão Eletrônica Internacional (IEC), que defne um conjunto de normas e especifcações técnicas com o objetivo de padronizar os autômatos programáveis. Desde sua primeira edição, publicada em 1993, que de forma simplificada, a norma IEC 61131-3 sugere a padronização de boas práticas para o desenvolvimento de programas de CLPs, visando qualidade e economia de tempo durante as fases de desenvolvimento e testes e é esta vertente que utilizaremos neste projeto.
 
-Linguagem de programação em sistemas embarcados tais como Arduino, ESP8266 e ESP32  tem sua IDE escrita em Java/C++. Para a programação do OrangePi utiliza-se o C, Python, que conta com várias bibliotecas específicas, além Shell script em Linux. Cada uma é utilizada  em diversos projetos de automação conforme sua necessidade.
+Na  automação residencial um fator relevante é a escolha de plataformas de código aberto. Elas capacitam os usuários a controlar e monitorar dispositivos e serviços em suas residências. Neste projeto optou-se pelo Home Assistant sendo que este atua como um hub de automação, fornecendo suporte para uma ampla variedade de dispositivos e integrações.
+
+Ao adotar plataformas os usuários podem integrar e gerenciar dispositivos populares, como lâmpadas inteligentes, termostatos, câmeras de segurança, fechaduras de portas e sensores de movimento. Através de uma interface web intuitiva ou de aplicativos móveis dedicados, eles têm o controle completo sobre esses dispositivos sejam elas locais ou em serviços de nuvem.
+
+Essa plataforma permite personalizar e automatizar tarefas residenciais, proporcionando conveniência e eficiência aos usuários. Por exemplo, é possível programar as luzes da casa para ligar automaticamente ao anoitecer, ajustar a temperatura do termostato quando a família estiver chegando em casa ou receber notificações em tempo real sobre eventos de segurança.
+
+No ítem Linguagem de programação em sistemas embarcados tais como Arduino, ESP8266 e ESP32  tem sua IDE escrita em Java/C++. Para a programação do OrangePi utiliza-se o C, Python, que conta com várias bibliotecas específicas, além Shell script em Linux. Cada uma é utilizada  em diversos projetos de automação conforme sua necessidade.
 
 Nestes repositórios, serão explanados os projetos e construção de dois núcleos (shield's). O primeiro que irá converter a plataforma OrangePi One em um controlador lógico programável com funcionalidades básicas (Figura 1) e o segundo contendo microcontroladorres, tais como Arduino Uno R3, ESP 8266, Wemos D1, ESP32,(Figura 2) que serão integrados com end-point de hardware aberto ao primeiro kit ou como desenvolvimento de projetos de automação residêncial e de IoT. Esses protótipos, auxiliado por software open-source, possibilita criar um ambiente versátil para controle e automação industrial e residencial assim como o acesso a sensores amplamente utilizados no ambiente de IoT. A metodologia proposta visa explorar os principais conceitos de eletrônica básica, programação de códigos de controle, comunicação entre dispositivos e análise de dados. 
  
