@@ -12,6 +12,7 @@
 # Índice 
 
 * [Introdução](#Introdução)
+* [Automação Residencial](#Automação-Residencial)
 * [Sistema Operacional Linux](#Sistema-Operacional-Linux)
 * [Kit didáticos](#Kit-didáticos)
 * [Programando os microcontroladores](#Programando-os-microcontroladores)
@@ -51,6 +52,22 @@ Nestes repositórios, serão explanados os projetos e construção de dois núcl
 </tbody>
 </table>
 
+# Automação Residencial
+
+O Home Assistant é uma plataforma de automação residencial descentralizada, gratuita e de código aberto. Ele possibilita o controle de atuadores, interpretação de dados coletados por sensores, implementação de regras de automação e gerenciamento da comunicação entre dispositivos. O Home Assistant pode ser executado em computadores Linux, em SBCs (Single Board Computers) com o sistema operacional dedicado Hass.io, ou em qualquer outro ambiente que possua Python e suas dependências instaladas.
+
+Uma das vantagens distintas do Home Assistant é sua capacidade de rodar em SBCs (Single Board Computers), como o Raspberry Pi, aproveitando eficientemente os recursos de hardware disponíveis. Isso permite uma implantação econômica em dispositivos de baixo custo, tornando o Home Assistant uma escolha popular entre os entusiastas da automação residencial.
+
+## Repositórios Disponíveis
+
+
+* <a href="https://github.com/Epaminondaslage/Homeassistant">Home Assistant</a> 
+* <a href="https://github.com/Epaminondaslage/ESPHome">ESPHome</a> 
+* <a href="https://github.com/Epaminondaslage/MQTT">ESPHome</a>
+* <a href="https://github.com/Epaminondaslage/NodeMCU">NodeMCU e MQTT>
+* <a href="https://github.com/Epaminondaslage/ESP8266-e-ESPHome">ESP8266 e ESPHome>
+* <a href="https://github.com/Epaminondaslage/Node32-e-MQTT">ENode32 e MQTT>
+  
 # Sistema Operacional Linux
 
 O Orange Pi, que é mais uma SBC (Single-Board Computers) disponibilizada no mercado, conta com um processador ARM e pode ser utilizada com varias distribuições do sistema operacional GNU/Linux. Utilizando o SO de código aberto (opensource) Linux, podemos fazer praticamente qualquer coisa com o Orange Pi. Como um computador, servidor para pequenas aplicações, servidor doméstico (automação residencial), videogame retrô, central de mídia (filmes, músicas, etc) e é claro um PLC.
