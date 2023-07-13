@@ -15,7 +15,7 @@
 * [Kit didáticos](#Kit-didáticos)
 * [Sistema Operacional Linux](#Sistema-Operacional-Linux)
 * [Introdução ao Shell Script no Linux](#Introdução-ao-Shell-Script-no-Linux)
-* [Automação Industrial - Open PLC](#Automação-Industrial-Open-PLC)
+* [Automação Industrial-Open PLC](#Automação-Industrial-Open-PLC)
 * [Automação Residencial](#Automação-Residencial)
 * [IDE Arduino](#IDE-Arduino)
 * [SCILab](#SCILab)
