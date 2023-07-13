@@ -139,7 +139,8 @@ O Editor OpenPLC é o software que roda em seu computador (Windorws, Mac ou Linu
 
 ## Repositórios Disponíveis  
 
-* <a href="https://github.com/Epaminondaslage/xxxxxxx">xxxxxxxxxxxxxxxxxxxx</a> 
+* <a href="https://github.com/Epaminondaslage/OpenPLC">Open PLC</a>
+* <a href="https://github.com/Epaminondaslage/Diagramas-de-comandos-eletricos-de-motores">Diagramas de Comandos Elétricos</a>
 
 # Automação Residencial
 
