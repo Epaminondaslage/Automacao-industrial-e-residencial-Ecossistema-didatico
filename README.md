@@ -17,8 +17,7 @@
 * [Programando os microcontroladores](#Programando-os-microcontroladores)
 * [Automação Industrial - Open PLC](#Automação-Industrial-Open-PLC)
 * [Automação Residencial](#Automação-Residencial)
-* [IDE Arduino](#IDE Arduino)
-* [Modbus](#modbus)
+* [IDE Arduino](#IDE-Arduino)
 * [SCILab](#SCILab)
 * [Status do Projeto](#Status-do-Projeto)
 * [Referências](#Referências)
@@ -177,19 +176,9 @@ Um projeto no Arduino é chamado de sketch, e consiste tipicamente em duas parte
 
 ## Repositórios Disponíveis   
 
-* <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shell Script em Linux</a>
-* <a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC</a>
+* <a href="https://github.com/Epaminondaslage/Ssssssssssss">Ssssssssss</a>
 * <a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduino</a>
 * <a href="https://github.com/Epaminondaslage/Arduino-Uno">Sketch Arduino</a>
-
-# Modbus
-
-Modbus é um protocolo de comunicação serial desenvolvido pela Modicon e publicado pela Modicon® em 1979 para utilização em controladores lógico programáveis (CLPs). Em termos simples, é um método usado para transmitir informação sobre redes seriais entre dispositivos eletrônicos.
-
-## Repositório Disponível  
-* https://pt.wikipedia.org/wiki/Modbus
-* https://openplcproject.com/docs/2-5-modbus-addressing/
-* <a href="https://github.com/Epaminondaslage/Modbus">ScadaBR</a>
 
 # SCILab
 
