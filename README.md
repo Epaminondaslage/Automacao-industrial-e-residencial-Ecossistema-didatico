@@ -100,7 +100,7 @@ Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Scrip
 * <a href="https://github.com/Epaminondaslage/SO_Ubuntu_SBC_OrangePI">SO Ubuntu SBC OrangePI</a> 
 * <a href="https://github.com/Epaminondaslage/SO-Debian-SBC-OrangePI">SO Debian SBC OrangePI</a>  
 
-# Programando os microcontroladores
+# Introdução ao Shell Script no Linux
 
 ## Scripts em shell nas SBC's
 
