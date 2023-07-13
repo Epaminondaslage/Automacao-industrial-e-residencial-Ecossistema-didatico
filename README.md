@@ -12,10 +12,12 @@
 # Índice 
 
 * [Introdução](#Introdução)
-* [Automação Residencial](#Automação-Residencial)
-* [Sistema Operacional Linux](#Sistema-Operacional-Linux)
 * [Kit didáticos](#Kit-didáticos)
+* [Sistema Operacional Linux](#Sistema-Operacional-Linux)
 * [Programando os microcontroladores](#Programando-os-microcontroladores)
+* [Automação Industrial - Open PLC](#Automação-Industrial-Open-PLC)
+* [Automação Residencial](#Automação-Residencial)
+* [IDE Arduino](#IDE Arduino)
 * [Modbus](#modbus)
 * [SCILab](#SCILab)
 * [Status do Projeto](#Status-do-Projeto)
@@ -51,6 +53,83 @@ Nestes repositórios, serão explanados os projetos e construção de dois núcl
 </tr>
 </tbody>
 </table>
+ 
+# Kit didáticos
+
+## Kit IoT
+
+O KIT IoT foi concebido para o aprendizado básico do microcontrolador Arduino, Wemos D1 e Esp32 utilizando sensores diversos. Reuniu-se 37 sensores e módulos básicos para que estes consigam captar inumeros fenômenos físicos e químicos. Neste kit, existem sensores/atuadores digitais e analógicos e também alguns módulos especiais, como ultrassom, Bluetooth, módulo de aceleração, WIFI, entre outros.
+
+Para cada sensor, desenvolveu-se um diagrama de conexão e um código de exemplo. Portanto, mesmo o aluno seja totalmente novo, ele pode começar facilmente. Os códigos de exemplo para este kit de sensores são baseados no ARDUINO, porque é de código aberto e fácil de usar. Caso o aluno tenha conhecimentos prévios, também pode aplicar este kit a outras plataformas de desenvolvimento de outros MCU e embarcados.
+
+Este Kit foi concebido para funcionar como endpoint do Kit SBC Linux.
+
+## Kit SBC Linux
+
+A base de sustentação para as placas do KITSBC Linux foi desenvovolvida construida em uma impressora 3D. Possui dimensões de 245x180x15 mm. Possui um slot para o OrangePi One, uma placa de ensaios tipo protoboard, um módulo de 8 relés e um módulo de 5 push-botons. O coração do Kit SBC Linux é o OrangePi One. O Orange Pi, que é mais uma SBC (Single-Board Computers) disponibilizada no mercado, conta com um processador ARM e pode ser utilizada com varias distribuições do sistema operacional GNU/Linux. Foi gerado duas versões de sistemas operacionais Linux (Ubuntu e o Debian)para serem utilizados conforme a aplicação. 
+
+## Repositórios Disponíveis  
+
+* <a href="https://github.com/Epaminondaslage/Kit-IoT">Kit Internet das Coisas (IoT)</a> 
+* <a href="https://github.com/Epaminondaslage/Kit-SBC-Linux">Kit SBC Linux</a>
+
+# Sistema Operacional Linux
+
+O Orange Pi, que é mais uma SBC (Single-Board Computers) disponibilizada no mercado, conta com um processador ARM e pode ser utilizada com varias distribuições do sistema operacional GNU/Linux. Utilizando o SO de código aberto (opensource) Linux, podemos fazer praticamente qualquer coisa com o Orange Pi. Como um computador, servidor para pequenas aplicações, servidor doméstico (automação residencial), videogame retrô, central de mídia (filmes, músicas, etc) e é claro um PLC.
+
+<table border="0">
+<tbody>
+<tr>
+<td><img style="display: block; margin-left: auto; margin-right: auto;" src="/img/SO.png" width="40%" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Figura 3: SO Linux do SBC.</td>
+</tr>
+</tbody>
+</table>
+
+Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Script e o Debian para a instalação do OpenPLC runtime.
+
+## Repositórios Disponíveis
+
+* <a href="https://github.com/Epaminondaslage/SO_Ubuntu_SBC_OrangePI">SO Ubuntu SBC OrangePI</a> 
+* <a href="https://github.com/Epaminondaslage/SO-Debian-SBC-OrangePI">SO Debian SBC OrangePI</a>  
+
+# Programando os microcontroladores
+
+## Scripts em shell nas SBC's
+
+Um script nada mais é do que um algoritmo projetado para realizar uma determinada tarefa, utilizando os comandos específicos do bash e os executáveis do sistema operacional. Um shell é um programa que permite que o usuário se comunique diretamente com o sistema operacional. Ele recebe e interpreta comandos enviados pelo operador ao Kernel — outro programa que gerencia todas as comunicações para o hardware — para que a ação desejada possa ser executada.
+
+O Bourne Again Shell ou bash, para abreviar, é um shell do Unix, mas também é uma linguagem de programação capaz de realizar diversas tarefas que ajudam a economizar tempo e energia.
+
+Assim como ocorre com outras linguagens de script, o bash permite que "softwares-pai" recebam aprimoramentos constantes de forma prática. Além dessa função básica, também é possível realizar diversas configurações de software e extrair dados.
+
+Em resumo, as principais aplicações dessa linguagem são:
+
+    * manipular arquivos;
+    * monitorar o sistema operacional;
+    * realizar automação de processos de compilação de código;
+    * executar backups de rotina;
+    * vincular programas existentes;
+    * realizar lotes de conclusão;
+    * criar ambientes para programas;
+    * executar programas
+    * Acionar GPIO's.
+
+# Automação Industrial - Open PLC
+
+A automação industrial refere-se à aplicação de tecnologia e sistemas para controlar e operar máquinas e processos industriais de forma automatizada. Ela utiliza sensores, atuadores, controladores e software para substituir ou complementar a intervenção humana, visando melhorar a eficiência, a precisão, a segurança e a produtividade nas indústrias.
+
+Um projeto notável nesse contexto é o OpenPLC. O OpenPLC é um projeto de código aberto que oferece uma plataforma flexível e acessível para a implementação de automação industrial baseada em software e hardware abertos. Ele permite a criação e personalização de controladores lógicos programáveis (PLCs) de acordo com requisitos específicos.
+
+O OpenPLC emprega o conceito de software PLC, em que o software é executado em um computador ou dispositivo em vez de um hardware dedicado. Ele é compatível com várias plataformas, incluindo Linux, Windows e Raspberry Pi, oferecendo flexibilidade na escolha do ambiente de execução.
+
+O Editor OpenPLC é o software que roda em seu computador (Windorws, Mac ou Linux) usado para criar programas para o PLC. É muito simples de usar e suporta todas as cinco linguagens definidas no padrão IEC 61131-3: Ladder Logic (LD), Function Block Diagram (FBD), Instruction List (IL), Structured Text (ST) e Sequential Function Chart ( SFC).
+
+## Repositórios Disponíveis  
+
+* <a href="https://github.com/Epaminondaslage/xxxxxxx">xxxxxxxxxxxxxxxxxxxx</a> 
 
 # Automação Residencial
 
@@ -77,74 +156,6 @@ Em suma, o Home Assistant é uma plataforma de automação residencial flexível
 * <a href="https://github.com/Epaminondaslage/ESP8266-e-ESPHome">ESP8266 e ESPHome>
 * <a href="https://github.com/Epaminondaslage/Node32-e-MQTT">ENode32 e MQTT>
   
-# Sistema Operacional Linux
-
-O Orange Pi, que é mais uma SBC (Single-Board Computers) disponibilizada no mercado, conta com um processador ARM e pode ser utilizada com varias distribuições do sistema operacional GNU/Linux. Utilizando o SO de código aberto (opensource) Linux, podemos fazer praticamente qualquer coisa com o Orange Pi. Como um computador, servidor para pequenas aplicações, servidor doméstico (automação residencial), videogame retrô, central de mídia (filmes, músicas, etc) e é claro um PLC.
-
-<table border="0">
-<tbody>
-<tr>
-<td><img style="display: block; margin-left: auto; margin-right: auto;" src="/img/SO.png" width="40%" /></td>
-</tr>
-<tr>
-<td style="text-align: center;">Figura 3: SO Linux do SBC.</td>
-</tr>
-</tbody>
-</table>
-
-Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Script e o Debian para a instalação do OpenPLC runtime.
-
-## Repositórios Disponíveis
-
-* <a href="https://github.com/Epaminondaslage/SO_Ubuntu_SBC_OrangePI">SO Ubuntu SBC OrangePI</a> 
-* <a href="https://github.com/Epaminondaslage/SO-Debian-SBC-OrangePI">SO Debian SBC OrangePI</a>   
-
-# Kit didáticos
-
-## Kit IoT
-
-O KIT IoT foi concebido para o aprendizado básico do microcontrolador Arduino, Wemos D1 e Esp32 utilizando sensores diversos. Reuniu-se 37 sensores e módulos básicos para que estes consigam captar inumeros fenômenos físicos e químicos. Neste kit, existem sensores/atuadores digitais e analógicos e também alguns módulos especiais, como ultrassom, Bluetooth, módulo de aceleração, WIFI, entre outros.
-
-Para cada sensor, desenvolveu-se um diagrama de conexão e um código de exemplo. Portanto, mesmo o aluno seja totalmente novo, ele pode começar facilmente. Os códigos de exemplo para este kit de sensores são baseados no ARDUINO, porque é de código aberto e fácil de usar. Caso o aluno tenha conhecimentos prévios, também pode aplicar este kit a outras plataformas de desenvolvimento de outros MCU e embarcados.
-
-Este Kit foi concebido para funcionar como endpoint do Kit SBC Linux.
-
-## Kit SBC Linux
-
-A base de sustentação para as placas do KITSBC Linux foi desenvovolvida construida em uma impressora 3D. Possui dimensões de 245x180x15 mm. Possui um slot para o OrangePi One, uma placa de ensaios tipo protoboard, um módulo de 8 relés e um módulo de 5 push-botons. O coração do Kit SBC Linux é o OrangePi One. O Orange Pi, que é mais uma SBC (Single-Board Computers) disponibilizada no mercado, conta com um processador ARM e pode ser utilizada com varias distribuições do sistema operacional GNU/Linux. Foi gerado duas versões de sistemas operacionais Linux (Ubuntu e o Debian)para serem utilizados conforme a aplicação.  
-
-
-## Repositórios Disponíveis  
-
-* <a href="https://github.com/Epaminondaslage/Kit-IoT">Kit Internet das Coisas (IoT)</a> 
-* <a href="https://github.com/Epaminondaslage/Kit-SBC-Linux">Kit SBC Linux</a> 
-
-# Programando os microcontroladores
-
-## Scripts em shell nas SBC's
-
-Um script nada mais é do que um algoritmo projetado para realizar uma determinada tarefa, utilizando os comandos específicos do bash e os executáveis do sistema operacional. Um shell é um programa que permite que o usuário se comunique diretamente com o sistema operacional. Ele recebe e interpreta comandos enviados pelo operador ao Kernel — outro programa que gerencia todas as comunicações para o hardware — para que a ação desejada possa ser executada.
-
-O Bourne Again Shell ou bash, para abreviar, é um shell do Unix, mas também é uma linguagem de programação capaz de realizar diversas tarefas que ajudam a economizar tempo e energia.
-
-Assim como ocorre com outras linguagens de script, o bash permite que "softwares-pai" recebam aprimoramentos constantes de forma prática. Além dessa função básica, também é possível realizar diversas configurações de software e extrair dados.
-
-Em resumo, as principais aplicações dessa linguagem são:
-
-    * manipular arquivos;
-    * monitorar o sistema operacional;
-    * realizar automação de processos de compilação de código;
-    * executar backups de rotina;
-    * vincular programas existentes;
-    * realizar lotes de conclusão;
-    * criar ambientes para programas;
-    * executar programas
-    * Acionar GPIO's.
-
-##  Editor OpenPLC
-
-O Editor OpenPLC é o software que roda em seu computador (Windorws, Mac ou Linux) usado para criar programas para o PLC. É muito simples de usar e suporta todas as cinco linguagens definidas no padrão IEC 61131-3: Ladder Logic (LD), Function Block Diagram (FBD), Instruction List (IL), Structured Text (ST) e Sequential Function Chart ( SFC).
-
 ## IDE Arduino
 
 O Arduino IDE é o software Arduino gratuito que facilita o desenvolvimento e a gravação de códigos diretamente no microcontrolador. Através deste, é possível realizar o Upload dos códigos para a placa tanto em sistemas operacionais Windows quanto Linux, demonstrando sua funcionalidade e versatilidade.
@@ -155,14 +166,12 @@ No Repositóriorio "PPT das Aulas de Programação Arduino" encontra-se os slide
 
 Um projeto no Arduino é chamado de sketch, e consiste tipicamente em duas partes (rotinas): a rotina de setup, que inicializa o sketch, e a rotina de loop, que normalmente contém o código principal do programa (é como a função main() da linguagem C). No Reposiótio "Sketch Arduino" disponibilizamos vários exemplos para sere utilizados pelos alunos.
 
-
 ## Repositórios Disponíveis   
 
 * <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shell Script em Linux</a>
 * <a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC</a>
 * <a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduino</a>
 * <a href="https://github.com/Epaminondaslage/Arduino-Uno">Sketch Arduino</a>
-
 
 # Modbus
 
