@@ -88,7 +88,7 @@ O Orange Pi, que é mais uma SBC (Single-Board Computers) disponibilizada no mer
 </tbody>
 </table>
 
-Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Script e o Debian para a instalação do OpenPLC runtime.
+Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Script e o Debian.
 
 ## Repositórios Disponíveis
 
@@ -105,6 +105,10 @@ O Bourne Again Shell ou bash, para abreviar, é um shell do Unix, mas também é
 
 Assim como ocorre com outras linguagens de script, o bash permite que "softwares-pai" recebam aprimoramentos constantes de forma prática. Além dessa função básica, também é possível realizar diversas configurações de software e extrair dados.
 
+Uma vantagem do shell script é que ele pode ser facilmente combinado com outros comandos e utilitários do Linux. Isso permite que os usuários aproveitem a vasta gama de recursos disponíveis no sistema operacional e em suas ferramentas de linha de comando.
+
+Além disso, o shell script também oferece suporte a recursos avançados, como funções, expressões regulares, redirecionamento de entrada/saída, processamento de sinais e manipulação de arquivos. Isso torna a programação shell script uma opção poderosa para automação e tarefas mais complexas.
+
 Em resumo, as principais aplicações dessa linguagem são:
 
     * manipular arquivos;
@@ -116,6 +120,11 @@ Em resumo, as principais aplicações dessa linguagem são:
     * criar ambientes para programas;
     * executar programas
     * Acionar GPIO's.
+
+## Repositórios Disponíveis  
+
+* <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shel Script em Linux</a> 
+    
 
 # Automação Industrial - Open PLC
 
