@@ -39,19 +39,6 @@ Na automação industrial, que além do hardware existe uma outra componente imp
 Linguagem de programação em sistemas embarcados tais como Arduino, ESP8266 e ESP32  tem sua IDE escrita em Java/C++. Para a programação do OrangePi utiliza-se o C, Python, que conta com várias bibliotecas específicas, além Shell script em Linux. Cada uma é utilizada  em diversos projetos de automação conforme sua necessidade.
 
 Nestes repositórios, serão explanados os projetos e construção de dois núcleos (shield's). O primeiro que irá converter a plataforma OrangePi One em um controlador lógico programável com funcionalidades básicas (Figura 1) e o segundo contendo microcontroladorres, tais como Arduino Uno R3, ESP 8266, Wemos D1, ESP32,(Figura 2) que serão integrados com end-point de hardware aberto ao primeiro kit ou como desenvolvimento de projetos de automação residêncial e de IoT. Esses protótipos, auxiliado por software open-source, possibilita criar um ambiente versátil para controle e automação industrial e residencial assim como o acesso a sensores amplamente utilizados no ambiente de IoT. A metodologia proposta visa explorar os principais conceitos de eletrônica básica, programação de códigos de controle, comunicação entre dispositivos e análise de dados. 
-
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/img/kit openplc.png" alt="" width="400" height="300" /></td>
-<td style="width: 50%;"><img src="/img/kit_iot.png" alt="" width="400" height="300" /></td>
-</tr>
-<tr>
-<td style="width: 50%;">Figura 1: Kit SBC Linux</td>
-<td style="width: 50%;">Figura 2: Kit IoT</td>
-</tr>
-</tbody>
-</table>
  
 # Kit didáticos
 
@@ -66,6 +53,19 @@ Este Kit foi concebido para funcionar como endpoint do Kit SBC Linux.
 ## Kit SBC Linux
 
 A base de sustentação para as placas do KITSBC Linux foi desenvovolvida construida em uma impressora 3D. Possui dimensões de 245x180x15 mm. Possui um slot para o OrangePi One, uma placa de ensaios tipo protoboard, um módulo de 8 relés e um módulo de 5 push-botons. O coração do Kit SBC Linux é o OrangePi One. O Orange Pi, que é mais uma SBC (Single-Board Computers) disponibilizada no mercado, conta com um processador ARM e pode ser utilizada com varias distribuições do sistema operacional GNU/Linux. Foi gerado duas versões de sistemas operacionais Linux (Ubuntu e o Debian)para serem utilizados conforme a aplicação. 
+
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/img/kit openplc.png" alt="" width="400" height="300" /></td>
+<td style="width: 50%;"><img src="/img/kit_iot.png" alt="" width="400" height="300" /></td>
+</tr>
+<tr>
+<td style="width: 50%;">Figura 1: Kit SBC Linux</td>
+<td style="width: 50%;">Figura 2: Kit IoT</td>
+</tr>
+</tbody>
+</table>
 
 ## Repositórios Disponíveis  
 
