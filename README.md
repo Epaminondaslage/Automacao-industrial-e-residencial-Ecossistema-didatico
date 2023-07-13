@@ -15,7 +15,7 @@
 * [Kit didáticos](#Kit-didáticos)
 * [Sistema Operacional Linux](#Sistema-Operacional-Linux)
 * [Introdução ao Shell Script no Linux](#Introdução-ao-Shell-Script-no-Linux)
-* [Automação Industrial-Open PLC](#Automação-Industrial-Open-PLC)
+* [Automação Industrial](#Automação-Industrial)
 * [Automação Residencial](#Automação-Residencial)
 * [IDE Arduino](#IDE-Arduino)
 * [SCILab](#SCILab)
@@ -127,7 +127,7 @@ Em resumo, as principais aplicações dessa linguagem são:
 * <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shel Script em Linux</a> 
     
 
-# Automação Industrial - Open PLC
+# Automação Industrial
 
 A automação industrial refere-se à aplicação de tecnologia e sistemas para controlar e operar máquinas e processos industriais de forma automatizada. Ela utiliza sensores, atuadores, controladores e software para substituir ou complementar a intervenção humana, visando melhorar a eficiência, a precisão, a segurança e a produtividade nas indústrias.
 
@@ -144,19 +144,13 @@ O Editor OpenPLC é o software que roda em seu computador (Windorws, Mac ou Linu
 
 # Automação Residencial
 
-O Home Assistant é uma plataforma de automação residencial de código aberto que permite aos usuários controlar e monitorar dispositivos e serviços em suas casas. Construído em torno de um núcleo central, o Home Assistant atua como um hub de automação, oferecendo suporte a uma ampla gama de dispositivos e integrações.
+A escolha de plataforma de automação residencial de código aberto que permite aos usuários controlar e monitorar dispositivos e serviços em suas casas é o mote deste projeto. Construído em torno de um núcleo central, optou-se pelo Home Assistant sendo que este atua como um hub de automação, oferecendo suporte a uma ampla gama de dispositivos e integrações.
 
-Com o Home Assistant, os usuários podem integrar e controlar dispositivos populares, como lâmpadas inteligentes, termostatos, câmeras de segurança, fechaduras de portas, sensores de movimento e muito mais. Através de uma interface web ou de aplicativos móveis, é possível gerenciar esses dispositivos de forma conveniente.
+Uma das sua principais características é a capacidade de integração com várias marcas e protocolos. Ele suporta a integração com marcas conhecidas, como Philips Hue, Nest, Sonos, Amazon Echo, Google Home, Z-Wave, Zigbee, entre outras. Isso permite que os usuários reúnam todos os dispositivos e serviços em uma única plataforma, simplificando o controle e a automação residencial.
 
-Uma das principais características do Home Assistant é sua capacidade de integração com várias marcas e protocolos. Ele suporta a integração com marcas conhecidas, como Philips Hue, Nest, Sonos, Amazon Echo, Google Home, Z-Wave, Zigbee, entre outras. Isso permite que os usuários reúnam todos os dispositivos e serviços em uma única plataforma, simplificando o controle e a automação residencial.
+Com este software, os usuários podem integrar e controlar dispositivos populares, como lâmpadas inteligentes, termostatos, câmeras de segurança, fechaduras de portas, sensores de movimento e muito mais. Através de uma interface web ou de aplicativos móveis, é possível gerenciar esses dispositivos de forma conveniente. Também oferece recursos avançados de automação, permitindo aos usuários criar rotinas e cenários personalizados. Por exemplo, é possível configurar uma automação para ligar as luzes da sala de estar, ajustar a temperatura do termostato e reproduzir música ambiente quando alguém chegar em casa.
 
-O Home Assistant também oferece recursos avançados de automação, permitindo aos usuários criar rotinas e cenários personalizados. Por exemplo, é possível configurar uma automação para ligar as luzes da sala de estar, ajustar a temperatura do termostato e reproduzir música ambiente quando alguém chegar em casa.
-
-Além disso, o Home Assistant possui recursos de monitoramento e notificação. Os usuários podem receber alertas quando sensores detectarem movimento, quando a temperatura estiver fora dos limites desejados ou quando uma porta for aberta. Essa funcionalidade garante que os usuários estejam sempre cientes do que está acontecendo em suas residências, mesmo quando estiverem ausentes.
-
-Outro aspecto interessante do Home Assistant é sua comunidade ativa e engajada. A plataforma conta com uma base sólida de usuários e desenvolvedores que contribuem com integrações adicionais, componentes e automações. Essa comunidade em constante crescimento e melhoria ajuda a tornar o Home Assistant uma solução cada vez mais versátil.
-
-Em suma, o Home Assistant é uma plataforma de automação residencial flexível e extensível, que permite aos usuários controlar e monitorar uma ampla variedade de dispositivos e serviços em suas casas. Com sua capacidade de integração, recursos avançados de automação e uma comunidade ativa, o Home Assistant oferece uma solução poderosa para tornar as residências mais inteligentes e convenientes.
+Esta plataforma possui recursos de monitoramento e notificação. Os usuários podem receber alertas quando sensores detectarem movimento, quando a temperatura estiver fora dos limites desejados ou quando uma porta for aberta. Essa funcionalidade garante que os usuários estejam sempre cientes do que está acontecendo em suas residências, mesmo quando estiverem ausentes.
 
 ## Repositórios Disponíveis
 
