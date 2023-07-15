@@ -155,11 +155,12 @@ Esta plataforma possui recursos de monitoramento e notificação. Os usuários p
 ## Repositórios Disponíveis
 
 * <a href="https://github.com/Epaminondaslage/homeassistant">Home Assistant</a> 
-* <a href="https://github.com/Epaminondaslage/homeassitant-ESPHome">ESPHome</a> 
-* <a href="https://github.com/Epaminondaslage/homeassitant-MQTT">MQTT</a>
-* <a href="https://github.com/Epaminondaslage/NodeMCU">NodeMCU e MQTT>
-* <a href="https://github.com/Epaminondaslage/ESP8266-e-ESPHome">ESP8266 e ESPHome>
-* <a href="https://github.com/Epaminondaslage/Node32-e-MQTT">ENode32 e MQTT>
+* <a href="https://github.com/Epaminondaslage/homeassistant-ESPHome">Home Assistant - ESPHome</a> 
+* <a href="https://github.com/Epaminondaslage/homeassistant-MQTT">Home Assistant - MQTT</a>
+ <a href="https://github.com/Epaminondaslage/homeassistant-nodered">Home Assistant - NodeRED</a>
+* <a href="https://github.com/Epaminondaslage/NodeMCU">Home Assistant - NodeMCU e MQTT>
+* <a href="https://github.com/Epaminondaslage/ESP8266-e-ESPHome">Home Assistant - ESP8266 e ESPHome>
+* <a href="https://github.com/Epaminondaslage/Node32-e-MQTT">Home Assistant - Node32 e MQTT>
   
 ## IDE Arduino
 
