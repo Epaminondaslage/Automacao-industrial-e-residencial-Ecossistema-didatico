@@ -1,4 +1,4 @@
-<td style="width: 20%;"><img src="/img/Logo_CEFET-MG.png" width="20%" /></td>
+<td style="width: 20%;"><img src="/img/Logo_CEFET-MG.png" width="20%"></td>
 <p><strong><span style="color: #0000ff;">Automação industrial e residencial</span></strong></p>
 <p><strong><span style="color: #0000ff;">Ecossistema didático com Open Software e Open Hardware</span></strong></p>
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong>
