@@ -7,7 +7,7 @@
 <p><strong><span style="color: #0000ff;">Prof Danilo Freitas Melo</span></strong>
 <a href="http://lattes.cnpq.br/3410712703972723"> Currículo Lattes MELO, D. F.</a> </p>
 
-<td style="width: 50%;"><img src="/img/Ecossistema_Open_Automacao.png" width="60%" /></td>
+<td style="width: 50%;"><img src="/img/Ecossistema Open Automação.png" width="70%" /></td>
 
 # Índice 
 
