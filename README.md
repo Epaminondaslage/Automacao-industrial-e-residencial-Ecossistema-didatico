@@ -159,6 +159,9 @@ Esta plataforma possui recursos de monitoramento e notificação. Os usuários p
 * <a href="https://github.com/Epaminondaslage/HomeAssistant">Home Assistant</a> 
 * <a href="https://github.com/Epaminondaslage/HomeAssistant-ESPHome">Home Assistant e ESPHome</a> 
 * <a href="https://github.com/Epaminondaslage/HomeAssistant-MQTT">Home Assistant e MQTT</a>
+* <a href="https://github.com/Epaminondaslage/HomeAssistant-Tuya">Home Assistant e Tuya</a>
+* <a href="https://github.com/Epaminondaslage/HomeAssistant-Tasmota-MQTT">Home Assistant Tasmota e MQTT</a>
+* <a href="https://github.com/Epaminondaslage/HomeAssistant-Sonoff">Home Assistant e Sonoff</a>
 * <a href="https://github.com/Epaminondaslage/HomeAssistant-NodeRED">Home Assistant e NodeRED</a>
 * <a href="https://github.com/Epaminondaslage/HomeAssistant-Telegram">Home Assistant e Telegram</a>
 * <a href="https://github.com/Epaminondaslage/HomeAssistant-NodeMCU-MQTT">Home Assistant - NodeMCU e MQTT</a>
