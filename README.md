@@ -16,7 +16,7 @@
 * [Sistema Operacional Linux](#Sistema-Operacional-Linux)
 * [Introdução ao Shell Script no Linux](#Introdução-ao-Shell-Script-no-Linux)
 * [IDE Arduino](#IDE-Arduino)
-* [Plataforma Home Assistant de Automação]P/(#Plataforma-Home-Assistant-de-Automação)
+* [Plataforma Home Assistant de Automação](#Plataforma-Home-Assistant-de-Automação)
 * [Open PLC](#OpenPLC)
 * [Modbus](#Modbus)
 * [SCILab](#SCILab)
