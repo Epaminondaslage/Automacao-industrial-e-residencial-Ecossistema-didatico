@@ -16,6 +16,9 @@
 * [Sistema Operacional Linux](#Sistema-Operacional-Linux)
 * [Introdução ao Shell Script no Linux](#Introdução-ao-Shell-Script-no-Linux)
 * [IDE Arduino](#IDE-Arduino)
+* [Plataforma Home Assistant de Automação]P/(#Plataforma-Home-Assistant-de-Automação)
+* [Open PLC](#OpenPLC)
+* [Modbus](#Modbus)
 * [SCILab](#SCILab)
 * [Status do Projeto](#Status-do-Projeto)
 * [Referências](#Referências)
@@ -134,6 +137,14 @@ As funções da IDE do Arduino são basicamente três: permitir o desenvolviment
 No Repositóriorio "PPT das Aulas de Programação Arduino" encontra-se os slides do Curso básico de programação com Arduíno ministrado na Disciplina Informática Aplicada , em caráter adicional ao programa do curso.
 
 Um projeto no Arduino é chamado de sketch, e consiste tipicamente em duas partes (rotinas): a rotina de setup, que inicializa o sketch, e a rotina de loop, que normalmente contém o código principal do programa (é como a função main() da linguagem C). No Reposiótio "Sketch Arduino" disponibilizamos vários exemplos para sere utilizados pelos alunos.
+
+## Plataforma Home Assistant de Automação
+
+
+## OpenPLC
+
+
+## Modbus 
 
 ## Repositórios Disponíveis   
 
