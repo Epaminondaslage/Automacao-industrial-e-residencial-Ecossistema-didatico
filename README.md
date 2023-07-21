@@ -128,7 +128,7 @@ Em resumo, as principais aplicações dessa linguagem são:
 * <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shel Script em Linux</a> 
     
 
-## IDE Arduino
+# IDE Arduino
 
 O Arduino IDE é o software Arduino gratuito que facilita o desenvolvimento e a gravação de códigos diretamente no microcontrolador. Através deste, é possível realizar o Upload dos códigos para a placa tanto em sistemas operacionais Windows quanto Linux, demonstrando sua funcionalidade e versatilidade.
 
@@ -138,18 +138,29 @@ No Repositóriorio "PPT das Aulas de Programação Arduino" encontra-se os slide
 
 Um projeto no Arduino é chamado de sketch, e consiste tipicamente em duas partes (rotinas): a rotina de setup, que inicializa o sketch, e a rotina de loop, que normalmente contém o código principal do programa (é como a função main() da linguagem C). No Reposiótio "Sketch Arduino" disponibilizamos vários exemplos para sere utilizados pelos alunos.
 
-## Plataforma Home Assistant de Automação
-
-
-## OpenPLC
-
-
-## Modbus 
-
 ## Repositórios Disponíveis   
 
 * <a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduino</a>
 * <a href="https://github.com/Epaminondaslage/Arduino-Uno">Sketch Arduino</a>
+
+# Plataforma Home Assistant de Automação
+
+## Repositórios Disponíveis   
+
+* <a href="https://github.com/Epaminondaslage/cccccccc">kdsjfhjsdhfhhfkhjdhsjkfhhksf</a>
+
+
+# OpenPLC
+
+
+## Repositórios Disponíveis   
+
+* <a href="https://github.com/Epaminondaslage/cccccccc">kdsjfhjsdhfhhfkhjdhsjkfhhksf</a>
+
+
+
+# Modbus 
+
 
 # SCILab
 
