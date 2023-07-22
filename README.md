@@ -24,39 +24,29 @@
 
 # Introdução
 
-A utilização de sistemas reais em ambiente acadêmico nem sempre é aplicável devido a fatores como a dimensão do espaço físico ou dos aquipamentos, características técnicas, requisitos elétricos, condições de segurança física e o custo e disponibilidade de recursos financeiros associado a estes tipos de montagens. Assim e para superar estas condicionantes, opta-se a kits didáticos, que são desenvolvidos de forma a terem um funcionamento semelhante aos sistemas reais.
+O projeto disponibiliza conteúdos, manuais, tutoriais e kits para laboratórios, permitindo que os alunos projetem, montem e testem seus conhecimentos na área de automação residencial, industrial e Internet das Coisas (IoT). Os sistemas propostos permitem a modelagem, análise, projeto e teste de sistemas de controle em ambientes virtuais ou reais em escalas reduzidas.
 
-Neste contexto kits didáticos podem ser entendidos como uma complementação acadêmica tendo como objetivo o desenvolvimento da capacidade do aluno de aplicar na prática os conhecimentos teóricos adquiridos, ampliando sua percepção da realidade e compreensão dos conceitos sobre os quais irá atuar ao longo de sua carreira profssional. Essas práticas laboratoriais incentivam o aprendizado ativo, em que pode-se ter separação de tarefas e responsabilidades entre os alunos em grupos, no qual o objetivo final é o trabalho em equipe. Tendo foco na área de controle e automação,seja ela residêncial ou industrial reconhecem-se alguns modelos de kits didáticos podem serem utilizados em laboratórios com grande sucesso.
+O uso de kits didáticos é uma solução viável para superar as limitações físicas, técnicas e financeiras associadas ao uso de sistemas reais em ambiente acadêmico. Esses kits proporcionam um ambiente de aprendizado semelhante aos sistemas reais, permitindo que os alunos apliquem os conhecimentos teóricos adquiridos na prática. Com uma variedade de sensores e módulos, os alunos podem realizar experimentos e projetos, ampliando sua compreensão dos conceitos teóricos e desenvolvendo suas habilidades práticas.
 
-No caso do CEFET-MG, por anos os professores e técnicos administrativos envolvidos, sempre apoiaram o ensino disponibilizando projetos hardware, código e tutoriais para que os alunos desenvolvam suas aptidões semelhante ao que acontece no ambiente industrial ou residêncial. É o caso da plataforma abordada neste trabalho, o OrangePi One, Arduino, Esp32 e Esp8266. Estes ou outras plataforma micro controlada de prototipagem tem como objetivo controlar ou automatizar alguma atividade. O termo automação pode ser defnido como um processo onde são realizadas várias operações com o auxílio de diversos dispositivos eletrônicos e/ou mecânicos que controlam os seus próprios processos. Neste contexto, a automação seja ela residencial ou industrial é a aplicação de técnicas, softwares e/ou equipamentos específcos numa determinada máquina ou processo industrial, assim como um ambiente doméstico com o objetivo de aumentar a sua efciência com o menor consumo de energia e/ou materias.
+As linguagens de programação são essenciais na automação industrial, seguindo a norma IEC 61131-3, que padroniza boas práticas para o desenvolvimento de programas de CLPs, buscando qualidade e economia de tempo no desenvolvimento e testes. Combinando o Node-RED com os nós Modbus, os alunos podem criar soluções poderosas de IoT e automação, tornando mais fácil e eficiente a integração de dispositivos e sistemas em ambientes industriais e residenciais. A programação visual do Node-RED simplifica o desenvolvimento de aplicações complexas, permitindo que mesmo os usuários com pouca experiência em programação possam criar soluções robustas para suas necessidades específicas.
 
-Este projeto disponibiliza aos alunos conteúdos, manuais, tutoriais e kits para laboratórios que propiciam aos alunos projetar, montar e testar seus conhecimentos visando despertar a curiosidade em aprimorar tantos os aspectos teóricos quanto práticos na área de automação residêncial, industrial e Internet das coisas, além de propor atividades laboratoriais de acionamento e controle que exploram conceitos desenvolvidos em salas de aula. Os sistemas propostos permitem modelagem, análise, projeto e teste de sistemas de controle variados em ambientes que podem ser virtuais ou reais em escalas reduzidas.
+Na automação residencial, a escolha de plataformas de código aberto é fundamental para oferecer flexibilidade e personalização. O Home Assistant é uma excelente opção, atuando como um hub de automação que suporta uma ampla variedade de dispositivos e integrações. Sua interface intuitiva e flexível permite aos usuários personalizar e automatizar tarefas residenciais de acordo com suas preferências e necessidades específicas.
 
-As Linguagens de programação nada mais são do que conjuntos de instruções padronizadas para que um computador entenda determinados comandos, ou seja, torne-se uma máquina capaz de processar e até armazenar dados. Elas estão cada vez mais próximas do nosso cotidiano, muitas vezes sem percebermos.
-
-Na automação industrial, que além do hardware existe uma outra componente importante, o software. O software desenvolve tarefas de programação e controle e gerenciamento de hardware por meio de linguagens específcas. Linguagens de programação para a automação industrial foram padronizadas por meio da norma IEC 61131-3, publicada pela Comissão Eletrônica Internacional (IEC), que defne um conjunto de normas e especifcações técnicas com o objetivo de padronizar os autômatos programáveis. Desde sua primeira edição, publicada em 1993, que de forma simplificada, a norma IEC 61131-3 sugere a padronização de boas práticas para o desenvolvimento de programas de CLPs, visando qualidade e economia de tempo durante as fases de desenvolvimento e testes e é esta vertente que utilizaremos neste projeto.
-
-Na  automação residencial um fator relevante é a escolha de plataformas de código aberto. Elas capacitam os usuários a controlar e monitorar dispositivos e serviços em suas residências. Neste projeto optou-se pelo Home Assistant sendo que este atua como um hub de automação, fornecendo suporte para uma ampla variedade de dispositivos e integrações.
-
-Ao adotar plataformas os usuários podem integrar e gerenciar dispositivos populares, como lâmpadas inteligentes, termostatos, câmeras de segurança, fechaduras de portas e sensores de movimento. Através de uma interface web intuitiva ou de aplicativos móveis dedicados, eles têm o controle completo sobre esses dispositivos sejam elas locais ou em serviços de nuvem.
-
-Essa plataforma permite personalizar e automatizar tarefas residenciais, proporcionando conveniência e eficiência aos usuários. Por exemplo, é possível programar as luzes da casa para ligar automaticamente ao anoitecer, ajustar a temperatura do termostato quando a família estiver chegando em casa ou receber notificações em tempo real sobre eventos de segurança.
-
-No ítem Linguagem de programação em sistemas embarcados tais como Arduino, ESP8266 e ESP32  tem sua IDE escrita em Java/C++. Para a programação do OrangePi utiliza-se o C, Python, que conta com várias bibliotecas específicas, além Shell script em Linux. Cada uma é utilizada  em diversos projetos de automação conforme sua necessidade.
+Essas plataformas e linguagens permitem que os alunos apliquem seus conhecimentos em projetos práticos, preparando-os para futuras carreiras na área de automação e controle. A integração de sensores comerciais MQTT, Zigbee e WiFi oferece diversas opções para comunicação e coleta de dados em sistemas de automação. Essa combinação de recursos permite criar soluções eficientes e versáteis para aplicações residenciais, industriais e de Internet das Coisas (IoT).
  
 # Kit didáticos
 
 ## Kit IoT
 
-O KIT IoT foi concebido para o aprendizado básico do microcontrolador Arduino, Wemos D1 e Esp32 utilizando sensores diversos. Reuniu-se 37 sensores e módulos básicos para que estes consigam captar inumeros fenômenos físicos e químicos. Neste kit, existem sensores/atuadores digitais e analógicos e também alguns módulos especiais, como ultrassom, Bluetooth, módulo de aceleração, WIFI, entre outros.
+O KIT IoT foi projetado para fornecer um aprendizado básico em microcontroladores, como Arduino, Wemos D1 e Esp32, por meio da utilização de diversos sensores e ainda para funcionar como endpoint do Kit SBC Linux. O kit reúne 37 sensores e módulos básicos que permitem a captura de diversos fenômenos físicos e químicos. Ele inclui sensores e atuadores digitais e analógicos, bem como módulos especiais como ultrassom, Bluetooth, aceleração, WIFI, entre outros.
 
-Para cada sensor, desenvolveu-se um diagrama de conexão e um código de exemplo. Portanto, mesmo o aluno seja totalmente novo, ele pode começar facilmente. Os códigos de exemplo para este kit de sensores são baseados no ARDUINO, porque é de código aberto e fácil de usar. Caso o aluno tenha conhecimentos prévios, também pode aplicar este kit a outras plataformas de desenvolvimento de outros MCU e embarcados.
+Para cada sensor, foram desenvolvidos diagramas de conexão e códigos de exemplo. Mesmo que o aluno seja totalmente iniciante, ele pode começar facilmente, pois os códigos de exemplo são baseados no Arduino, uma plataforma de código aberto e fácil de usar. Caso o aluno já possua conhecimentos prévios, ele também pode aplicar este kit em outras plataformas de desenvolvimento de microcontroladores e sistemas embarcados.
 
-Este Kit foi concebido para funcionar como endpoint do Kit SBC Linux.
+Esse kit possibilita a experimentação e aprendizado prático, permitindo aos usuários desenvolverem projetos e soluções usando uma variedade de sensores e plataformas de microcontroladores. Com a combinação de teoria e prática, os alunos podem adquirir habilidades valiosas em eletrônica, programação e IoT.
 
 ## Kit SBC Linux
 
-A base de sustentação para as placas do KITSBC Linux foi desenvovolvida construida em uma impressora 3D. Possui dimensões de 245x180x15 mm. Possui um slot para o OrangePi One, uma placa de ensaios tipo protoboard, um módulo de 8 relés e um módulo de 5 push-botons. O coração do Kit SBC Linux é o OrangePi One. O Orange Pi, que é mais uma SBC (Single-Board Computers) disponibilizada no mercado, conta com um processador ARM e pode ser utilizada com varias distribuições do sistema operacional GNU/Linux. Foi gerado duas versões de sistemas operacionais Linux (Ubuntu e o Debian)para serem utilizados conforme a aplicação. 
+A base de sustentação para as placas do KITSBC Linux foi desenvolvida e construída utilizando impressão 3D, possuindo dimensões de 245x180x15 mm. Ela conta com um slot para a placa OrangePi One, uma protoboard para testes e experimentação, um módulo com 8 relés e outro com 5 push-buttons. O componente central do Kit SBC Linux é o OrangePi One, uma Single-Board Computer (SBC) com processador ARM, que oferece suporte a diversas distribuições do sistema operacional GNU/Linux. Foram geradas duas versões de sistemas operacionais, o Ubuntu e o Debian, para atender a diferentes aplicações e necessidades dos alunos.
 
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -71,7 +61,7 @@ A base de sustentação para as placas do KITSBC Linux foi desenvovolvida constr
 </tbody>
 </table>
 
-* Repositórios Disponíveis  
+<p><b>Repositórios Disponíveis</b></p>
 * <a href="https://github.com/Epaminondaslage/Kit-IoT">Kit Internet das Coisas (IoT)</a> 
 * <a href="https://github.com/Epaminondaslage/Kit-SBC-Linux">Kit SBC Linux</a>
 
@@ -98,13 +88,11 @@ Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Scrip
 
 # Introdução ao Shell Script em SBC's com Linux
 
-Um script nada mais é do que um algoritmo projetado para realizar uma determinada tarefa, utilizando os comandos específicos do bash e os executáveis do sistema operacional. Um shell é um programa que permite que o usuário se comunique diretamente com o sistema operacional. Ele recebe e interpreta comandos enviados pelo operador ao Kernel — outro programa que gerencia todas as comunicações para o hardware — para que a ação desejada possa ser executada.
+Um script é um algoritmo desenvolvido para executar uma tarefa específica, utilizando comandos do bash e executáveis do sistema operacional. O shell é um programa que permite a interação direta do usuário com o sistema operacional, interpretando comandos enviados ao Kernel para executar ações desejadas.
 
-O Bourne Again Shell ou bash, para abreviar, é um shell do Unix, mas também é uma linguagem de programação capaz de realizar diversas tarefas que ajudam a economizar tempo e energia. Assim como ocorre com outras linguagens de script, o bash permite que "softwares-pai" recebam aprimoramentos constantes de forma prática. Além dessa função básica, também é possível realizar diversas configurações de software e extrair dados.
+O Bash (Bourne Again Shell) é um shell do Unix e também uma linguagem de programação capaz de realizar várias tarefas, otimizando tempo e recursos. Ele permite aprimoramentos constantes em "softwares-pai" de maneira prática e também configurações de software e extração de dados.
 
-Uma vantagem do shell script é que ele pode ser facilmente combinado com outros comandos e utilitários do Linux. Isso permite que os usuários aproveitem a vasta gama de recursos disponíveis no sistema operacional e em suas ferramentas de linha de comando.
-
-Além disso, o shell script também oferece suporte a recursos avançados, como funções, expressões regulares, redirecionamento de entrada/saída, processamento de sinais e manipulação de arquivos. Isso torna a programação shell script uma opção poderosa para automação e tarefas mais complexas.
+O shell script possui vantagens, pois pode ser facilmente combinado com outros comandos e utilitários do Linux, aproveitando os recursos disponíveis no sistema operacional e suas ferramentas de linha de comando. Além disso, ele suporta recursos avançados como funções, expressões regulares, redirecionamento de entrada/saída, processamento de sinais e manipulação de arquivos, tornando-o poderoso para automação e tarefas complexas.
 
 Em resumo, as principais aplicações dessa linguagem são:
 
@@ -124,13 +112,7 @@ Em resumo, as principais aplicações dessa linguagem são:
 
 # IDE Arduino
 
-O Arduino IDE é o software Arduino gratuito que facilita o desenvolvimento e a gravação de códigos diretamente no microcontrolador. Através deste, é possível realizar o Upload dos códigos para a placa tanto em sistemas operacionais Windows quanto Linux, demonstrando sua funcionalidade e versatilidade.
-
-As funções da IDE do Arduino são basicamente três: permitir o desenvolvimento do software, de enviá-lo à placa para que possa ser executado e de interagir com a placa Arduino.
-
-No Repositóriorio "PPT das Aulas de Programação Arduino" encontra-se os slides do Curso básico de programação com Arduíno ministrado na Disciplina Informática Aplicada , em caráter adicional ao programa do curso.
-
-Um projeto no Arduino é chamado de sketch, e consiste tipicamente em duas partes (rotinas): a rotina de setup, que inicializa o sketch, e a rotina de loop, que normalmente contém o código principal do programa (é como a função main() da linguagem C). No Reposiótio "Sketch Arduino" disponibilizamos vários exemplos para sere utilizados pelos alunos.
+O Arduino IDE é um software gratuito que simplifica o desenvolvimento e a gravação de códigos em microcontroladores, permitindo o upload dos códigos para a placa Arduino e microcontroladores compatíveis em diferentes sistemas operacionais. Suas principais funções incluem o desenvolvimento de software, envio de código para a placa e interação com a mesma. O Repositório "PPT das Aulas de Programação Arduino" contém slides de um curso básico de programação com Arduino, complementando o programa da disciplina Informática Aplicada. Essa ferramenta é amplamente usada por entusiastas e profissionais para prototipagem rápida, automação, sistemas embarcados e projetos de IoT devido à sua interface intuitiva, vasta quantidade de bibliotecas e recursos disponíveis.
 
 * Repositórios Disponíveis   
 * <a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduino</a>
@@ -138,10 +120,14 @@ Um projeto no Arduino é chamado de sketch, e consiste tipicamente em duas parte
 
 # Automatização com Node-RED
 
+O Node-RED é uma plataforma de desenvolvimento de fluxo de código aberto baseada em JavaScript, que oferece uma abordagem de programação visual para conectar dispositivos e serviços na Internet das Coisas (IoT) e na automação industrial. Projetado para ser executado em servidores Node.js, o Node-RED permite que os desenvolvedores criem fluxos de automação interligando "nós" pré-definidos para manipular, processar e transmitir dados de forma eficiente. Cada nó representa uma função específica, como entrada, processamento e saída de dados, e os fluxos são criados arrastando e conectando esses nós através de uma interface gráfica intuitiva. O Node-RED oferece uma biblioteca extensiva de nós prontos para uso e suporta integração com uma variedade de dispositivos e serviços, incluindo sensores, atuadores, bancos de dados, APIs da web e muito mais. Sua arquitetura flexível e extensível possibilita a criação de automações complexas e personalizadas, permitindo a rápida prototipagem e implantação de soluções IoT e de automação. Sua popularidade crescente entre a comunidade de desenvolvedores torna o Node-RED uma opção poderosa e versátil para conectar e automatizar sistemas em ambientes IoT e industriais.
+
 * Repositórios Disponíveis   
 * <a href="https://github.com/Epaminondaslage/cccccccc">kdsjfhjsdhfhhfkhjdhsjkfhhksf</a>
 
-# Protocolo entre Plataformas 0 Modbus
+# Protocolo de comunicação entre Plataformas - Modbus
+
+O Modbus é um protocolo de comunicação utilizado amplamente na automação industrial para troca de dados entre dispositivos de controle, como Controladores Lógicos Programáveis (CLPs) e dispositivos de campo, como sensores e atuadores. Ele opera em uma arquitetura mestre-escravo ou cliente-servidor, onde um dispositivo mestre (ou cliente) solicita informações de um ou mais dispositivos escravos (ou servidores). O Modbus é baseado em uma estrutura de mensagens simples, com o formato de dados organizado em "registros", que podem ser de entrada, saída, de estado ou registradores analógicos. Utiliza diferentes tipos de protocolos de comunicação, incluindo Modbus RTU (transmissão de caracteres em formato binário), Modbus ASCII (transmissão de caracteres ASCII) e Modbus TCP (transmissão através de Ethernet). Sua simplicidade e ampla adoção na indústria tornam o Modbus uma opção popular para integração de dispositivos e sistemas em ambientes industriais, permitindo a coleta de dados, controle de processos e monitoramento de equipamentos de forma confiável e eficiente.
 
 * Repositórios Disponíveis   
 * <a href="https://github.com/Epaminondaslage/cccccccc">kdsjfhjsdhfhhfkhjdhsjkfhhksf</a>
@@ -149,17 +135,14 @@ Um projeto no Arduino é chamado de sketch, e consiste tipicamente em duas parte
 
 # Plataforma Home Assistant de Automação Residencial
 
+O Home Assistant é uma plataforma de automação residencial de código aberto e domótica baseada em Python. Projetado para ser executado em uma variedade de dispositivos, como Raspberry Pi, servidores Linux, Windows e macOS, o Home Assistant fornece uma solução flexível e escalável para controlar e monitorar dispositivos e sistemas domésticos inteligentes. Utilizando uma arquitetura modular, o Home Assistant suporta a integração com inúmeras marcas e protocolos populares, permitindo a interação com dispositivos como lâmpadas, termostatos, câmeras, entre outros. Os usuários podem personalizar suas automações e scripts utilizando a linguagem de configuração YAML e a interface gráfica do usuário, tornando possível criar cenários complexos de automação. A plataforma também oferece integração com assistentes de voz, como Amazon Alexa e Google Assistant, ampliando suas funcionalidades e tornando-o um hub centralizado para a automação inteligente de casas.
+
 * Repositórios Disponíveis   
 * <a href="https://github.com/Epaminondaslage/cccccccc">kdsjfhjsdhfhhfkhjdhsjkfhhksf</a>
 
 # Plataforma OpenPLC
 
-
-* Repositórios Disponíveis   
-* <a href="https://github.com/Epaminondaslage/cccccccc">kdsjfhjsdhfhhfkhjdhsjkfhhksf</a>
-
-
-# Modbus 
+O OpenPLC é uma plataforma de automação industrial de código aberto, projetada para implementar Controladores Lógicos Programáveis (CLPs) de forma flexível e acessível. Compatível com diversos dispositivos de hardware, como Raspberry Pi e Arduino, o OpenPLC oferece uma solução versátil para controlar processos industriais. Sua conformidade com a norma IEC 61131-3 permite a programação utilizando linguagens padronizadas, como LD, IL e FBD, facilitando o desenvolvimento e reutilização de lógicas. 
 
 * Repositórios Disponíveis   
 * <a href="https://github.com/Epaminondaslage/cccccccc">kdsjfhjsdhfhhfkhjdhsjkfhhksf</a>
@@ -167,9 +150,9 @@ Um projeto no Arduino é chamado de sketch, e consiste tipicamente em duas parte
 
 # SCILab
 
-O Scilab é um software científico para computação numérica, de codigo aberto, semelhante ao MATLAB que fornece um poderoso ambiente computacional aberto para aplicações científicas.
+O Scilab é uma ferramenta científica de código aberto para computação numérica, que se assemelha ao MATLAB, fornecendo um ambiente computacional poderoso e aberto para aplicações científicas. Sua linguagem de programação de alto nível é voltada para análise numérica, oferecendo um ambiente de interpretação com diversas ferramentas numéricas. Com o Scilab, é possível criar algoritmos complexos em poucas linhas de código, o que o torna uma opção mais eficiente em comparação com outras linguagens como C ou C++. Essa característica torna o Scilab uma escolha popular para cientistas, engenheiros e pesquisadores que buscam uma solução eficaz para suas necessidades de computação numérica. O Scilab fornece suporte para a comunicação com dispositivos Modbus por meio de bibliotecas de comunicação ou scripts personalizados.
 
-Possui uma linguagem de programação de alto nível, orientada à análise numérica. A linguagem provê um ambiente para interpretação, com diversas ferramentas numéricas. Algoritmos complexos podem ser criados em poucas linhas de código, em comparação com outras linguagens como C ou C++.
+A aquisição de dados entre o Scilab e dispositivos Modbus pode ser realizada por meio de bibliotecas e pacotes específicos de código aberto, que permitem a comunicação Modbus no Scilab. Bibliotecas como o "ScilabModbus" e o "ScilabModbusMaster", permitem a interação com dispositivos Modbus TCP/IP. Essas bibliotecas permitem que o Scilab atue como mestre ou cliente Modbus, solicitando dados de dispositivos escravos ou servidores Modbus. Isto facilita a comunicação entre as duas tecnologias. 
 
 * Repositório Disponível  
 * <a href="https://github.com/Epaminondaslage/Lab_Inf_Aplicada">Laboratório de Informática Aplicada (IoT)</a> 
