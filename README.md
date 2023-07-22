@@ -182,7 +182,7 @@ A aquisição de dados entre o Scilab e dispositivos Modbus pode ser realizada p
 
 <p><b>Repositórios Disponíveis</b></p>   
 <ul>
- <li>a href="https://github.com/Epaminondaslage/Lab_Inf_Aplicada">Laboratório de Informática Aplicada (IoT)</a> </li>
+ <li><a href="https://github.com/Epaminondaslage/Lab_Inf_Aplicada">Laboratório de Informática Aplicada (IoT)</a> </li>
 </ul>
 
 # Status do Projeto
