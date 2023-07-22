@@ -115,42 +115,55 @@ Em resumo, as principais aplicações dessa linguagem são:
 O Arduino IDE é um software gratuito que simplifica o desenvolvimento e a gravação de códigos em microcontroladores, permitindo o upload dos códigos para a placa Arduino e microcontroladores compatíveis em diferentes sistemas operacionais. Suas principais funções incluem o desenvolvimento de software, envio de código para a placa e interação com a mesma. O Repositório "PPT das Aulas de Programação Arduino" contém slides de um curso básico de programação com Arduino, complementando o programa da disciplina Informática Aplicada. Essa ferramenta é amplamente usada por entusiastas e profissionais para prototipagem rápida, automação, sistemas embarcados e projetos de IoT devido à sua interface intuitiva, vasta quantidade de bibliotecas e recursos disponíveis.
 
 <p><b>Repositórios Disponíveis</b></p> 
-* <a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduino</a>
-* <a href="https://github.com/Epaminondaslage/Arduino-Uno">Sketch Arduino</a>
+<ul>
+ <li><a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduino</a></li>
+  <li><a href="https://github.com/Epaminondaslage/Arduino-Uno">Sketch Arduino</a></li>
+</ul>
 
 # Automatização com Node-RED
 
 O Node-RED é uma plataforma de desenvolvimento de fluxo de código aberto baseada em JavaScript, que oferece uma abordagem de programação visual para conectar dispositivos e serviços na Internet das Coisas (IoT) e na automação industrial. Projetado para ser executado em servidores Node.js, o Node-RED permite que os desenvolvedores criem fluxos de automação interligando "nós" pré-definidos para manipular, processar e transmitir dados de forma eficiente. Cada nó representa uma função específica, como entrada, processamento e saída de dados, e os fluxos são criados arrastando e conectando esses nós através de uma interface gráfica intuitiva. O Node-RED oferece uma biblioteca extensiva de nós prontos para uso e suporta integração com uma variedade de dispositivos e serviços, incluindo sensores, atuadores, bancos de dados, APIs da web e muito mais. Sua arquitetura flexível e extensível possibilita a criação de automações complexas e personalizadas, permitindo a rápida prototipagem e implantação de soluções IoT e de automação. Sua popularidade crescente entre a comunidade de desenvolvedores torna o Node-RED uma opção poderosa e versátil para conectar e automatizar sistemas em ambientes IoT e industriais.
 
-<p><b>Repositórios Disponíveis</b></p>
-* <a href="https://github.com/Epaminondaslage/cccccccc">kdsjfhjsdhfhhfkhjdhsjkfhhksf</a>
+<p><b>Repositórios Disponíveis</b></p>   
+<ul>
+ <li><a href="https://github.com/Epaminondaslage/HomeAssistant-NodeRED">Home Assistant - Node-RED</a></li>
+</ul>
+
 
 # Protocolo de comunicação entre Plataformas - Modbus
 
 O Modbus é um protocolo de comunicação utilizado amplamente na automação industrial para troca de dados entre dispositivos de controle, como Controladores Lógicos Programáveis (CLPs) e dispositivos de campo, como sensores e atuadores. Ele opera em uma arquitetura mestre-escravo ou cliente-servidor, onde um dispositivo mestre (ou cliente) solicita informações de um ou mais dispositivos escravos (ou servidores). O Modbus é baseado em uma estrutura de mensagens simples, com o formato de dados organizado em "registros", que podem ser de entrada, saída, de estado ou registradores analógicos. Utiliza diferentes tipos de protocolos de comunicação, incluindo Modbus RTU (transmissão de caracteres em formato binário), Modbus ASCII (transmissão de caracteres ASCII) e Modbus TCP (transmissão através de Ethernet). Sua simplicidade e ampla adoção na indústria tornam o Modbus uma opção popular para integração de dispositivos e sistemas em ambientes industriais, permitindo a coleta de dados, controle de processos e monitoramento de equipamentos de forma confiável e eficiente.
 
 <p><b>Repositórios Disponíveis</b></p>   
-* <a href="https://github.com/Epaminondaslage/cccccccc">kdsjfhjsdhfhhfkhjdhsjkfhhksf</a>
-
+<ul>
+ <li><a href="https://github.com/Epaminondaslage/HomeAssistant-NodeRED">Home Assistant - Node-RED</a></li>
+</ul>
 
 # Plataforma Home Assistant de Automação Residencial
 
 O Home Assistant é uma plataforma de automação residencial de código aberto e domótica baseada em Python. Projetado para ser executado em uma variedade de dispositivos, como Raspberry Pi, servidores Linux, Windows e macOS, o Home Assistant fornece uma solução flexível e escalável para controlar e monitorar dispositivos e sistemas domésticos inteligentes. Utilizando uma arquitetura modular, o Home Assistant suporta a integração com inúmeras marcas e protocolos populares, permitindo a interação com dispositivos como lâmpadas, termostatos, câmeras, entre outros. Os usuários podem personalizar suas automações e scripts utilizando a linguagem de configuração YAML e a interface gráfica do usuário, tornando possível criar cenários complexos de automação. A plataforma também oferece integração com assistentes de voz, como Amazon Alexa e Google Assistant, ampliando suas funcionalidades e tornando-o um hub centralizado para a automação inteligente de casas.
 
 <p><b>Repositórios Disponíveis</b></p>  
-* <a href="https://github.com/Epaminondaslage/cccccccc">kdsjfhjsdhfhhfkhjdhsjkfhhksf</a>
+    <ul>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant">Home Assistant</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-ESPHome">Home Assistant - ESPHome</a></li
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Telegram">Home Assistant - Telegram</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Tuya">HomeAssistant-Tuya</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Tasmota-MQTT">HomeAssistant-Tasmota-MQTT</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Sonoff">HomeAssistant-Sonoff</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-ESP32-MQTT">Home Assistant - ESP32 - MQTT</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-ESP8266-ESPHome/blob/main/README.md">Home Assiatant - ESP8266 e ESPHome</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-NodeMCU-MQTT">Home Assistant, NodeMCU com MQTT</a></li>
+    </ul>
 
 # Plataforma OpenPLC
 
 O OpenPLC é uma plataforma de automação industrial de código aberto, projetada para implementar Controladores Lógicos Programáveis (CLPs) de forma flexível e acessível. Compatível com diversos dispositivos de hardware, como Raspberry Pi e Arduino, o OpenPLC oferece uma solução versátil para controlar processos industriais. Sua conformidade com a norma IEC 61131-3 permite a programação utilizando linguagens padronizadas, como LD, IL e FBD, facilitando o desenvolvimento e reutilização de lógicas. 
 
 <p><b>Repositórios Disponíveis</b></p> 
-<h1>Links para Repositórios no GitHub:</h1>
     <ul>
-        <li><a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/primeirodiagrama">Primeiro Diagrama OpenPLC Editor</a></li>
-        <li><a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/cargaruntime">Carregando Programas para o OpenPLC Runtime</a></li>
         <li><a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC</a></li>
-        <li><a href="https://github.com/Epaminondaslage/openplc-modbus">OpenPLC e Modbus</a></li>
+        <li><a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/primeirodiagrama">Primeiro Diagrama OpenPLC Editor</a></li>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-OpenPLC">HomeAssistant-OpenPLC</a></li>
         <li><a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/cargaruntime">OpenPLC Runtime</a></li>
         <li><a href="https://github.com/Epaminondaslage/Diagramas-de-comandos-eletricos-de-motores/">Diagramas de Comandos Elétricos de Motores</a></li>
@@ -162,8 +175,10 @@ O Scilab é uma ferramenta científica de código aberto para computação numé
 
 A aquisição de dados entre o Scilab e dispositivos Modbus pode ser realizada por meio de bibliotecas e pacotes específicos de código aberto, que permitem a comunicação Modbus no Scilab. Bibliotecas como o "ScilabModbus" e o "ScilabModbusMaster", permitem a interação com dispositivos Modbus TCP/IP. Essas bibliotecas permitem que o Scilab atue como mestre ou cliente Modbus, solicitando dados de dispositivos escravos ou servidores Modbus. Isto facilita a comunicação entre as duas tecnologias. 
 
-<p><b>Repositórios Disponíveis</b></p> 
-* <a href="https://github.com/Epaminondaslage/Lab_Inf_Aplicada">Laboratório de Informática Aplicada (IoT)</a> 
+<p><b>Repositórios Disponíveis</b></p>   
+<ul>
+ <li>a href="https://github.com/Epaminondaslage/Lab_Inf_Aplicada">Laboratório de Informática Aplicada (IoT)</a> </li>
+</ul>
 
 # Status do Projeto
 
