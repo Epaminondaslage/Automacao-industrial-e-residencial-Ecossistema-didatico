@@ -16,11 +16,12 @@
 * [Sistema Operacional Linux](#Sistema-Operacional-Linux)
 * [Introdução ao Shell Script no Linux](#Introdução-ao-Shell-Script-no-Linux)
 * [IDE Arduino](#IDE-Arduino)
-* [Plataforma Home Assistant de Automação](#Plataforma-Home-Assistant-de-Automação-Residencial)
+* [Automatização com Node-RED[(#Automatização-com-Node-RED)
+* [Protocolo de comunicação entre Plataformas - Modbus]
+* [Plataforma Home Assistant de Automação Residencial](#Plataforma-Home-Assistant-de-Automação-Residencial)
 * [Plataforma Open PLC](#Plataforma-OpenPLC)
 * [SCILab](#SCILab)
 * [Status do Projeto](#Status-do-Projeto)
-* [Referências](#Referências)
 
 # Introdução
 
@@ -131,7 +132,6 @@ O Node-RED é uma plataforma de desenvolvimento de fluxo de código aberto basea
 <ul>
  <li><a href="https://github.com/Epaminondaslage/HomeAssistant-NodeRED">Home Assistant - Node-RED</a></li>
 </ul>
-
 
 # Protocolo de comunicação entre Plataformas - Modbus
 
