@@ -141,7 +141,7 @@ O Modbus é um protocolo de comunicação utilizado amplamente na automação in
 
 <p><b>Repositórios Disponíveis</b></p>   
 <ul>
- <li>h<a href="https://github.com/Epaminondaslage/openplc-modbus">Home Assistant - Modbus</a></li>
+ <li><a href="https://github.com/Epaminondaslage/openplc-modbus">Home Assistant - Modbus</a></li>
 </ul>
 
 # Plataforma Home Assistant de Automação Residencial
