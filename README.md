@@ -16,8 +16,8 @@
 * [Sistema Operacional Linux](#Sistema-Operacional-Linux)
 * [Introdução ao Shell Script no Linux](#Introdução-ao-Shell-Script-no-Linux)
 * [IDE Arduino](#IDE-Arduino)
-* [Plataforma Home Assistant de Automação](#Plataforma-Home-Assistant-de-Automação)
-* [Open PLC](#OpenPLC)
+* [Plataforma Home Assistant de Automação](#Plataforma-Home-Assistant-de-Automação-Residencial)
+* [Plataforma Open PLC](#Plataforma-OpenPLC)
 * [Modbus](#Modbus)
 * [SCILab](#SCILab)
 * [Status do Projeto](#Status-do-Projeto)
@@ -143,20 +143,19 @@ Um projeto no Arduino é chamado de sketch, e consiste tipicamente em duas parte
 * <a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduino</a>
 * <a href="https://github.com/Epaminondaslage/Arduino-Uno">Sketch Arduino</a>
 
-# Plataforma Home Assistant de Automação
+# Plataforma Home Assistant de Automação Residencial
 
 ## Repositórios Disponíveis   
 
 * <a href="https://github.com/Epaminondaslage/cccccccc">kdsjfhjsdhfhhfkhjdhsjkfhhksf</a>
 
 
-# OpenPLC
+# Plataforma OpenPLC
 
 
 ## Repositórios Disponíveis   
 
 * <a href="https://github.com/Epaminondaslage/cccccccc">kdsjfhjsdhfhhfkhjdhsjkfhhksf</a>
-
 
 
 # Modbus 
