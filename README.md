@@ -82,7 +82,7 @@ O Orange Pi é uma Single-Board Computer (SBC), disponível no mercado, que poss
 
 Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Script e o Debian.
 
-* Repositórios Disponíveis
+<p><b>Repositórios Disponíveis</b></p>
 * <a href="https://github.com/Epaminondaslage/SO_Ubuntu_SBC_OrangePI">SO Ubuntu SBC OrangePI</a> 
 * <a href="https://github.com/Epaminondaslage/SO-Debian-SBC-OrangePI">SO Debian SBC OrangePI</a>  
 
@@ -106,7 +106,7 @@ Em resumo, as principais aplicações dessa linguagem são:
     * executar programas
     * Acionar GPIO's.
 
-* Repositórios Disponíveis  
+<p><b>Repositórios Disponíveis</b></p>
 * <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shel Script em Linux</a> 
     
 
@@ -114,7 +114,7 @@ Em resumo, as principais aplicações dessa linguagem são:
 
 O Arduino IDE é um software gratuito que simplifica o desenvolvimento e a gravação de códigos em microcontroladores, permitindo o upload dos códigos para a placa Arduino e microcontroladores compatíveis em diferentes sistemas operacionais. Suas principais funções incluem o desenvolvimento de software, envio de código para a placa e interação com a mesma. O Repositório "PPT das Aulas de Programação Arduino" contém slides de um curso básico de programação com Arduino, complementando o programa da disciplina Informática Aplicada. Essa ferramenta é amplamente usada por entusiastas e profissionais para prototipagem rápida, automação, sistemas embarcados e projetos de IoT devido à sua interface intuitiva, vasta quantidade de bibliotecas e recursos disponíveis.
 
-* Repositórios Disponíveis   
+<p><b>Repositórios Disponíveis</b></p> 
 * <a href="https://github.com/Epaminondaslage/Kit-IoT/tree/master/material_didatico/ppt_de_aulas">PPT das Aulas de Programação Arduino</a>
 * <a href="https://github.com/Epaminondaslage/Arduino-Uno">Sketch Arduino</a>
 
@@ -122,14 +122,14 @@ O Arduino IDE é um software gratuito que simplifica o desenvolvimento e a grava
 
 O Node-RED é uma plataforma de desenvolvimento de fluxo de código aberto baseada em JavaScript, que oferece uma abordagem de programação visual para conectar dispositivos e serviços na Internet das Coisas (IoT) e na automação industrial. Projetado para ser executado em servidores Node.js, o Node-RED permite que os desenvolvedores criem fluxos de automação interligando "nós" pré-definidos para manipular, processar e transmitir dados de forma eficiente. Cada nó representa uma função específica, como entrada, processamento e saída de dados, e os fluxos são criados arrastando e conectando esses nós através de uma interface gráfica intuitiva. O Node-RED oferece uma biblioteca extensiva de nós prontos para uso e suporta integração com uma variedade de dispositivos e serviços, incluindo sensores, atuadores, bancos de dados, APIs da web e muito mais. Sua arquitetura flexível e extensível possibilita a criação de automações complexas e personalizadas, permitindo a rápida prototipagem e implantação de soluções IoT e de automação. Sua popularidade crescente entre a comunidade de desenvolvedores torna o Node-RED uma opção poderosa e versátil para conectar e automatizar sistemas em ambientes IoT e industriais.
 
-* Repositórios Disponíveis   
+<p><b>Repositórios Disponíveis</b></p>
 * <a href="https://github.com/Epaminondaslage/cccccccc">kdsjfhjsdhfhhfkhjdhsjkfhhksf</a>
 
 # Protocolo de comunicação entre Plataformas - Modbus
 
 O Modbus é um protocolo de comunicação utilizado amplamente na automação industrial para troca de dados entre dispositivos de controle, como Controladores Lógicos Programáveis (CLPs) e dispositivos de campo, como sensores e atuadores. Ele opera em uma arquitetura mestre-escravo ou cliente-servidor, onde um dispositivo mestre (ou cliente) solicita informações de um ou mais dispositivos escravos (ou servidores). O Modbus é baseado em uma estrutura de mensagens simples, com o formato de dados organizado em "registros", que podem ser de entrada, saída, de estado ou registradores analógicos. Utiliza diferentes tipos de protocolos de comunicação, incluindo Modbus RTU (transmissão de caracteres em formato binário), Modbus ASCII (transmissão de caracteres ASCII) e Modbus TCP (transmissão através de Ethernet). Sua simplicidade e ampla adoção na indústria tornam o Modbus uma opção popular para integração de dispositivos e sistemas em ambientes industriais, permitindo a coleta de dados, controle de processos e monitoramento de equipamentos de forma confiável e eficiente.
 
-* Repositórios Disponíveis   
+<p><b>Repositórios Disponíveis</b></p>   
 * <a href="https://github.com/Epaminondaslage/cccccccc">kdsjfhjsdhfhhfkhjdhsjkfhhksf</a>
 
 
@@ -137,16 +137,24 @@ O Modbus é um protocolo de comunicação utilizado amplamente na automação in
 
 O Home Assistant é uma plataforma de automação residencial de código aberto e domótica baseada em Python. Projetado para ser executado em uma variedade de dispositivos, como Raspberry Pi, servidores Linux, Windows e macOS, o Home Assistant fornece uma solução flexível e escalável para controlar e monitorar dispositivos e sistemas domésticos inteligentes. Utilizando uma arquitetura modular, o Home Assistant suporta a integração com inúmeras marcas e protocolos populares, permitindo a interação com dispositivos como lâmpadas, termostatos, câmeras, entre outros. Os usuários podem personalizar suas automações e scripts utilizando a linguagem de configuração YAML e a interface gráfica do usuário, tornando possível criar cenários complexos de automação. A plataforma também oferece integração com assistentes de voz, como Amazon Alexa e Google Assistant, ampliando suas funcionalidades e tornando-o um hub centralizado para a automação inteligente de casas.
 
-* Repositórios Disponíveis   
+<p><b>Repositórios Disponíveis</b></p>  
 * <a href="https://github.com/Epaminondaslage/cccccccc">kdsjfhjsdhfhhfkhjdhsjkfhhksf</a>
 
 # Plataforma OpenPLC
 
 O OpenPLC é uma plataforma de automação industrial de código aberto, projetada para implementar Controladores Lógicos Programáveis (CLPs) de forma flexível e acessível. Compatível com diversos dispositivos de hardware, como Raspberry Pi e Arduino, o OpenPLC oferece uma solução versátil para controlar processos industriais. Sua conformidade com a norma IEC 61131-3 permite a programação utilizando linguagens padronizadas, como LD, IL e FBD, facilitando o desenvolvimento e reutilização de lógicas. 
 
-* Repositórios Disponíveis   
-* <a href="https://github.com/Epaminondaslage/cccccccc">kdsjfhjsdhfhhfkhjdhsjkfhhksf</a>
-
+<p><b>Repositórios Disponíveis</b></p> 
+<h1>Links para Repositórios no GitHub:</h1>
+    <ul>
+        <li><a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/primeirodiagrama">Primeiro Diagrama OpenPLC Editor</a></li>
+        <li><a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/cargaruntime">Carregando Programas para o OpenPLC Runtime</a></li>
+        <li><a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC</a></li>
+        <li><a href="https://github.com/Epaminondaslage/openplc-modbus">OpenPLC e Modbus</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-OpenPLC">HomeAssistant-OpenPLC</a></li>
+        <li><a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/cargaruntime">OpenPLC Runtime</a></li>
+        <li><a href="https://github.com/Epaminondaslage/Diagramas-de-comandos-eletricos-de-motores/">Diagramas de Comandos Elétricos de Motores</a></li>
+    </ul>
 
 # SCILab
 
@@ -154,7 +162,7 @@ O Scilab é uma ferramenta científica de código aberto para computação numé
 
 A aquisição de dados entre o Scilab e dispositivos Modbus pode ser realizada por meio de bibliotecas e pacotes específicos de código aberto, que permitem a comunicação Modbus no Scilab. Bibliotecas como o "ScilabModbus" e o "ScilabModbusMaster", permitem a interação com dispositivos Modbus TCP/IP. Essas bibliotecas permitem que o Scilab atue como mestre ou cliente Modbus, solicitando dados de dispositivos escravos ou servidores Modbus. Isto facilita a comunicação entre as duas tecnologias. 
 
-* Repositório Disponível  
+<p><b>Repositórios Disponíveis</b></p> 
 * <a href="https://github.com/Epaminondaslage/Lab_Inf_Aplicada">Laboratório de Informática Aplicada (IoT)</a> 
 
 # Status do Projeto
