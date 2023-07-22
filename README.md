@@ -16,8 +16,8 @@
 * [Sistema Operacional Linux](#Sistema-Operacional-Linux)
 * [Introdução ao Shell Script no Linux](#Introdução-ao-Shell-Script-no-Linux)
 * [IDE Arduino](#IDE-Arduino)
-* [Automatização com Node-RED[(#Automatização-com-Node-RED)
-* [Protocolo de comunicação entre Plataformas - Modbus]
+* [Automatização com Node-RE](#Automatização-com-Node-RED)
+* [Protocolo de comunicação entre Plataformas - Modbus](#Protocolo-de-comunicação-entre-Plataformas-Modbus)
 * [Plataforma Home Assistant de Automação Residencial](#Plataforma-Home-Assistant-de-Automação-Residencial)
 * [Plataforma Open PLC](#Plataforma-OpenPLC)
 * [SCILab](#SCILab)
