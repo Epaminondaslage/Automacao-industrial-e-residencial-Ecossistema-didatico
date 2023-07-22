@@ -63,8 +63,10 @@ A base de sustentação para as placas do KITSBC Linux foi desenvolvida e constr
 </table>
 
 <p><b>Repositórios Disponíveis</b></p>
-* <a href="https://github.com/Epaminondaslage/Kit-IoT">Kit Internet das Coisas (IoT)</a> 
-* <a href="https://github.com/Epaminondaslage/Kit-SBC-Linux">Kit SBC Linux</a>
+<ul>
+   <li> <a href="https://github.com/Epaminondaslage/Kit-IoT">Kit Internet das Coisas (IoT)</a></li>
+   <li> <a href="https://github.com/Epaminondaslage/Kit-SBC-Linux">Kit SBC Linux</a></li>
+</ul>  
 
 # Sistema Operacional Linux
 
