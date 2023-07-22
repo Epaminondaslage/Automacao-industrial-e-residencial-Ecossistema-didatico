@@ -83,8 +83,10 @@ O Orange Pi é uma Single-Board Computer (SBC), disponível no mercado, que poss
 Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Script e o Debian.
 
 <p><b>Repositórios Disponíveis</b></p>
-* <a href="https://github.com/Epaminondaslage/SO_Ubuntu_SBC_OrangePI">SO Ubuntu SBC OrangePI</a> 
-* <a href="https://github.com/Epaminondaslage/SO-Debian-SBC-OrangePI">SO Debian SBC OrangePI</a>  
+<ul>
+   <li> <a href="https://github.com/Epaminondaslage/SO_Ubuntu_SBC_OrangePI">SO Ubuntu SBC OrangePI</a>  </li>
+   <li> <a href="https://github.com/Epaminondaslage/SO-Debian-SBC-OrangePI">SO Debian SBC OrangePI</a>    </li>
+</ul>   
 
 # Introdução ao Shell Script em SBC's com Linux
 
@@ -107,8 +109,9 @@ Em resumo, as principais aplicações dessa linguagem são:
     * Acionar GPIO's.
 
 <p><b>Repositórios Disponíveis</b></p>
-* <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shel Script em Linux</a> 
-    
+<ul>
+   <li> <a href="https://github.com/Epaminondaslage/Shell-Script-em-Linux">Shel Script em Linux</a> </li>
+</ul>   
 
 # IDE Arduino
 
@@ -146,7 +149,7 @@ O Home Assistant é uma plataforma de automação residencial de código aberto 
 <p><b>Repositórios Disponíveis</b></p>  
     <ul>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant">Home Assistant</a></li>
-        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-ESPHome">Home Assistant - ESPHome</a></li
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-ESPHome">Home Assistant - ESPHome</a></li> 
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Telegram">Home Assistant - Telegram</a></li>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Tuya">HomeAssistant-Tuya</a></li>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Tasmota-MQTT">HomeAssistant-Tasmota-MQTT</a></li>
