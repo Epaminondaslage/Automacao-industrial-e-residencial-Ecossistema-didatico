@@ -3,32 +3,92 @@
 # Índice 
 
 * [Introdução](#Introdução)
+* [Plataforma de Divulgação: GitHub](#Plataforma-de-Divulgação:-GitHub)
+* [Plataforma de Automação Residencial](#Plataforma-de-Automação-Residencial)
+* [Plataforma Automação Industrial](#Plataforma-Automação-Industrial)
 * [Kit didáticos](#Kit-didáticos)
-* [Sistema Operacional Linux](#Sistema-Operacional-Linux)
-* [Introdução ao Shell Script no Linux](#Introdução-ao-Shell-Script-no-Linux)
-* [IDE Arduino](#IDE-Arduino)
-* [Automatização com Node-RE](#Automatização-com-Node-RED)
 * [Protocolo de comunicação entre Plataformas - Modbus](#Protocolo-de-comunicação-entre-Plataformas-Modbus)
-* [Plataforma Home Assistant de Automação Residencial](#Plataforma-Home-Assistant-de-Automação-Residencial)
-* [Plataforma Open PLC](#Plataforma-OpenPLC)
-* [SCILab](#SCILab)
+* [Sistema Operacional Linux](#Sistema-Operacional-Linux)
+* [IDE Arduino](#IDE-Arduino)
+* [Automatização com Node-RED](#Automatização-com-Node-RED)
+* [Ambiente de Simulação - SCILab](#Ambiente-de-Simulação-Scilab)
 * [Status do Projeto](#Status-do-Projeto)
 
 # Introdução
 
-O projeto disponibiliza conteúdos, manuais, tutoriais e kits para laboratórios, permitindo que os alunos projetem, montem e testem seus conhecimentos na área de automação residencial, industrial e Internet das Coisas (IoT). Os sistemas propostos permitem a modelagem, análise, projeto e teste de sistemas de controle em ambientes virtuais ou reais em escalas reduzidas.
+O objetivo principal do ecossistema de automação industrial e residencial didático é capacitar os alunos a desenvolverem competências para projetar, implementar e solucionar problemas em sistemas de automação, preparando-os para o mercado de trabalho e para futuras pesquisas na área. Além disso, essa abordagem prática e participativa tende a despertar o interesse dos estudantes, tornando o aprendizado mais envolvente e efetivo.
+
+A criação de um ecossistema de automação industrial e residencial didático é uma iniciativa muito valiosa para promover o aprendizado e o desenvolvimento de habilidades na área de automação e Internet das Coisas (IoT). Esse tipo de projeto visa fornecer aos alunos uma experiência prática e hands-on, permitindo que eles adquiram conhecimentos teóricos e apliquem-nos na prática por meio de atividades de modelagem, montagem e teste de sistemas de controle.
+
+O ecossistema de automação industrial e residencial didático proposto apresenta as seguntes caracteristicas:
+
+* Conteúdos teóricos: Disponibilizar materiais de ensino, tais como vídeos, apresentações, e-books e artigos, que explicam os conceitos fundamentais de automação industrial, residencial e IoT. Esses materiais podem abordar tópicos como sensores, atuadores, redes de comunicação, protocolos de comunicação, programação de sistemas embarcados e arquiteturas de automação.
+
+* Manuais e tutoriais: Oferecer guias detalhados que orientem passo a passo os alunos na construção de sistemas de automação. Esses manuais podem incluir listas de materiais, instruções de montagem, códigos de programação e dicas para a solução de problemas comuns.
+
+* Kits para laboratórios: Disponibilizar kits físicos contendo os componentes necessários para a construção dos sistemas de automação. Esses kits podem incluir sensores, atuadores, microcontroladores, placas de desenvolvimento e outros microcontoladores.
+
+* Ambientes fisicos e virtuais: Além dos kits físicos, é interessante fornecer ambientes virtuais de simulação nos quais os alunos possam modelar e testar seus sistemas de automação. A integração com Programas como o Scilab  permite que os alunos experimentem e cometam erros sem riscos associados a sistemas reais.
+
+* Plataforma de divulgação: Utilizar a plataforma do Github que centralize todos os recursos, como links de vídeos, manuais, tutoriais e acesso aos ambientes de simulação. Essa plataforma pode incluir fóruns de discussão, onde os alunos podem interagir, trocar experiências e esclarecer dúvidas aplicadas a cada repositório.
+
+* Projetos práticos: Proporcionar aos alunos projetos práticos desafiadores, que incentivem a aplicação dos conhecimentos adquiridos. Os projetos podem variar em complexidade, permitindo que os alunos avancem gradualmente em suas habilidades utilizando os Kits apresentados e suas evoluçoes com o desenvolver do projeto.
+
+* Avaliação e feedback: Implementar mecanismos de avaliação para acompanhar o progresso dos alunos e fornecer feedback construtivo sobre suas realizações.
 
 <td style="width: 50%;"><img src="/img/Ecossistema Open Automação.png" width="70%" /></td>
 
-O uso de kits didáticos é uma solução viável para superar as limitações físicas, técnicas e financeiras associadas ao uso de sistemas reais em ambiente acadêmico. Esses kits proporcionam um ambiente de aprendizado semelhante aos sistemas reais, permitindo que os alunos apliquem os conhecimentos teóricos adquiridos na prática. Com uma variedade de sensores e módulos, os alunos podem realizar experimentos e projetos, ampliando sua compreensão dos conceitos teóricos e desenvolvendo suas habilidades práticas.
+A utilização dessas plataformas, protocolos de comunicação e linguagens de programação permitem que os alunos apliquem seus conhecimentos em projetos práticos, preparando-os para futuras carreiras na área de automação e controle. A integração de sensores comerciais MQTT, Zigbee, ESPHome e WiFi oferece diversas opções para comunicação e coleta de dados em sistemas de automação. Essa combinação de recursos permite criar soluções eficientes e versáteis para aplicações residenciais, industriais e de Internet das Coisas (IoT).
 
-As linguagens de programação são essenciais na automação industrial, seguindo a norma IEC 61131-3, que padroniza boas práticas para o desenvolvimento de programas de CLPs, buscando qualidade e economia de tempo no desenvolvimento e testes. Combinando o Node-RED com os nós Modbus, os alunos podem criar soluções poderosas de IoT e automação, tornando mais fácil e eficiente a integração de dispositivos e sistemas em ambientes industriais e residenciais. A programação visual do Node-RED simplifica o desenvolvimento de aplicações complexas, permitindo que mesmo os usuários com pouca experiência em programação possam criar soluções robustas para suas necessidades específicas.
+# Plataforma de Divulgação: GitHub
+
+A plataforma de divulgação do ecossistema de automação industrial e residencial será o GitHub. Todos os recursos, como vídeos, manuais, tutoriais e acesso aos ambientes de simulação, serão centralizados em repositórios separados. Os alunos poderão interagir, trocar experiências e esclarecer dúvidas associados a cada repositório. Podemos enumerar algumas vantagens em usar este ambiente: 
+
+* Centralização de Recursos: Vídeos, manuais, tutoriais e acesso aos ambientes de simulação em repositórios separados.
+* Interatividade: Fóruns de discussão em cada repositório para interação, troca de experiências e esclarecimento de dúvidas.
+* Controle de Versão: Possibilidade de acompanhar mudanças e colaborar de forma coletiva.
+* Integração com Ferramentas: Facilidade para integrar-se a outras ferramentas de desenvolvimento.
+* Colaboração: Permite que os alunos contribuam com novos recursos e melhorias.
+* Acesso e Privacidade: Definição de permissões de acesso aos repositórios conforme a política do projeto.
+
+Um dos principais benefícios do GitHub é permitir que os alunos criem "forks" dos repositórios, o que significa que eles podem fazer uma cópia do projeto original em suas contas pessoais. Ao criar um "fork", os alunos têm total liberdade para fazer modificações, melhorias e experimentar novas ideias sem afetar o repositório original. Após realizar suas modificações no "fork", eles podem propor que suas alterações sejam incorporadas ao repositório original por meio de um processo conhecido como "pull request".
+
+# Plataforma de Automação Residencial
 
 Na automação residencial, a escolha de plataformas de código aberto é fundamental para oferecer flexibilidade e personalização. O Home Assistant é uma excelente opção, atuando como um hub de automação que suporta uma ampla variedade de dispositivos e integrações. Sua interface intuitiva e flexível permite aos usuários personalizar e automatizar tarefas residenciais de acordo com suas preferências e necessidades específicas.
 
-Essas plataformas e linguagens permitem que os alunos apliquem seus conhecimentos em projetos práticos, preparando-os para futuras carreiras na área de automação e controle. A integração de sensores comerciais MQTT, Zigbee e WiFi oferece diversas opções para comunicação e coleta de dados em sistemas de automação. Essa combinação de recursos permite criar soluções eficientes e versáteis para aplicações residenciais, industriais e de Internet das Coisas (IoT).
+O Home Assistant é uma plataforma de automação residencial de código aberto e domótica baseada em Python. Projetado para ser executado em uma variedade de dispositivos, como Raspberry Pi, servidores Linux, Windows e macOS, o Home Assistant fornece uma solução flexível e escalável para controlar e monitorar dispositivos e sistemas domésticos inteligentes. Utilizando uma arquitetura modular, o Home Assistant suporta a integração com inúmeras marcas e protocolos populares, permitindo a interação com dispositivos como lâmpadas, termostatos, câmeras, entre outros. Os usuários podem personalizar suas automações e scripts utilizando a linguagem de configuração YAML e a interface gráfica do usuário, tornando possível criar cenários complexos de automação. A plataforma também oferece integração com assistentes de voz, como Amazon Alexa e Google Assistant, ampliando suas funcionalidades e tornando-o um hub centralizado para a automação inteligente de casas.
+
+<p><b>Repositórios Disponíveis</b></p>  
+    <ul>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant">Home Assistant</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-ESPHome">Home Assistant - ESPHome</a></li> 
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Telegram">Home Assistant - Telegram</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-NodeMCU-MQTT">Home Assistant - NodeMCU/MQTT</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Tuya">Home Assistant - Tuya</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Sonoff">Home Assistant - Sonoff</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-ESP32-ESP8266-ESPHome">Home Assistant-ESP32-ESP8266-ESPHome</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Tasmota-MQTT">*Home Assistant - Tasmota/MQTT</a></li>
+    </ul>
+
+# Plataforma Automação Industrial
+
+As linguagens de programação são essenciais na automação industrial, seguindo a norma IEC 61131-3, que padroniza boas práticas para o desenvolvimento de programas de CLPs, buscando qualidade e economia de tempo no desenvolvimento e testes. Combinando o Node-RED com os nós Modbus, os alunos podem criar soluções poderosas de IoT e automação, tornando mais fácil e eficiente a integração de dispositivos e sistemas em ambientes industriais e residenciais. A programação visual do Node-RED simplifica o desenvolvimento de aplicações complexas, permitindo que mesmo os usuários com pouca experiência em programação possam criar soluções robustas para suas necessidades específicas.
+
+O OpenPLC é uma plataforma de automação industrial de código aberto, projetada para implementar Controladores Lógicos Programáveis (CLPs) de forma flexível e acessível. Compatível com diversos dispositivos de hardware, como Raspberry Pi e Arduino, o OpenPLC oferece uma solução versátil para controlar processos industriais. Sua conformidade com a norma IEC 61131-3 permite a programação utilizando linguagens padronizadas, como LD, IL e FBD, facilitando o desenvolvimento e reutilização de lógicas. 
+
+<p><b>Repositórios Disponíveis</b></p> 
+    <ul>
+        <li><a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC</a></li>
+        <li><a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/primeirodiagrama">Primeiro Diagrama OpenPLC Editor</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-OpenPLC">HomeAssistant-OpenPLC</a></li>
+        <li><a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/cargaruntime">OpenPLC Runtime</a></li>
+        <li><a href="https://github.com/Epaminondaslage/Diagramas-de-comandos-eletricos-de-motores/">Diagramas de Comandos Elétricos de Motores</a></li>
+    </ul>
  
 # Kit didáticos
+
+O uso de kits didáticos é uma solução viável para superar as limitações físicas, técnicas e financeiras associadas ao uso de sistemas reais em ambiente acadêmico. Esses kits proporcionam um ambiente de aprendizado semelhante aos sistemas reais, permitindo que os alunos apliquem os conhecimentos teóricos adquiridos na prática. Com uma variedade de sensores e módulos, os alunos podem realizar experimentos e projetos, ampliando sua compreensão dos conceitos teóricos e desenvolvendo suas habilidades práticas.
 
 ## Kit IoT
 
@@ -61,9 +121,43 @@ A base de sustentação para as placas do KITSBC Linux foi desenvolvida e constr
    <li> <a href="https://github.com/Epaminondaslage/Kit-SBC-Linux">Kit SBC Linux</a></li>
 </ul>  
 
+# Protocolo de comunicação entre Plataformas 
+
+Existem diversos protocolos de comunicação utilizados em sistemas industriais e residenciais para permitir a troca de informações entre dispositivos, sensores, atuadores e sistemas de controle. Iremos utilizar alguns dos protocolos mais comuns:
+
+Modbus: Um protocolo de comunicação serial amplamente utilizado em ambientes industriais para troca de dados entre dispositivos, como controladores lógicos programáveis (PLCs) e dispositivos de campo, como sensores e atuadores.
+
+Ethernet/IP: Um protocolo baseado em Ethernet que permite a comunicação entre dispositivos industriais. Ele é comumente usado em ambientes de automação que requerem comunicação em tempo real.
+
+Z-Wave e Zigbee: São protocolos de comunicação sem fio utilizados em automação residencial para conectar dispositivos como sensores, atuadores e dispositivos de controle, permitindo a criação de redes de sensores e atuadores inteligentes.
+
+Wi-Fi e Bluetooth: Embora amplamente utilizados em dispositivos de consumo, também são aplicados em automação residencial, permitindo a conectividade de dispositivos inteligentes à rede local e ao controle por meio de aplicativos móveis.
+
+É importante escolher o protocolo de comunicação adequado de acordo com a aplicação específica, levando em consideração a distância de comunicação, a velocidade necessária, os requisitos de segurança e a compatibilidade com os dispositivos e sistemas envolvidos. Além disso, com a evolução contínua da tecnologia, novos protocolos podem surgir para atender às necessidades emergentes de automação industrial e residencial.
+
+<p><b>Repositórios Disponíveis</b></p>   
+<ul>
+ <li><a href="https://github.com/Epaminondaslage/openplc-modbus">Home Assistant - Modbus</a></li>
+</ul>
+
+
 # Sistema Operacional Linux
 
-O Orange Pi é uma Single-Board Computer (SBC), disponível no mercado, que possui um processador ARM e é compatível com várias distribuições do sistema operacional GNU/Linux. Com o uso do sistema operacional de código aberto Linux, o Orange Pi oferece uma ampla gama de possibilidades de uso. Ele pode ser utilizado como um computador completo, servidor para aplicações de pequeno porte, servidor doméstico para automação residencial, videogame retrô e central de mídia para filmes, músicas, entre outros.
+o Linux é amplamente utilizado em sistemas de automação, tanto em aplicações industriais quanto residenciais. O Linux é um sistema operacional de código aberto e baseado em Unix, conhecido por sua confiabilidade, segurança e flexibilidade, o que o torna uma escolha popular para diferentes cenários de automação.
+
+Existem várias razões pelas quais o Linux é uma opção atraente para sistemas de automação:
+
+* Código Aberto: O fato de o Linux ser um sistema operacional de código aberto significa que ele pode ser modificado e personalizado de acordo com as necessidades específicas do projeto de automação.
+* Estabilidade e Confiabilidade: O Linux é conhecido por sua estabilidade e confiabilidade, o que é essencial em ambientes de automação onde a consistência e o funcionamento ininterrupto são cruciais.
+* Suporte a Diversos Dispositivos: O Linux possui um amplo suporte a drivers, permitindo que ele funcione em uma variedade de dispositivos e plataformas de hardware, desde computadores industriais até sistemas embarcados.
+* Baixo Custo: O Linux é uma opção econômica, pois é um sistema operacional de código aberto, e muitas distribuições são gratuitas.
+* Flexibilidade: O Linux oferece flexibilidade para adaptar-se às necessidades específicas de automação, permitindo que os desenvolvedores escolham as ferramentas e componentes adequados para cada projeto.
+* Comunidade Ativa: O Linux possui uma comunidade de desenvolvedores e entusiastas ativa, o que significa que há um vasto conjunto de recursos, tutoriais e suporte disponível.
+* Segurança: O Linux é amplamente reconhecido por sua segurança robusta, o que é crucial em sistemas de automação, onde a proteção contra ameaças é essencial.
+
+Integração com Tecnologias de Código Aberto: O Linux pode ser facilmente integrado a outras tecnologias de código aberto amplamente usadas na automação, como o OpenPLC para automação industrial e o Home Assistant para automação residencial.
+
+Com o uso do sistema operacional de código aberto Linux, o Orange Pi, colocado no Kit , o Raspberry PI como servidor para o OpenPLC e Home Assistant oferece uma ampla gama de possibilidades de uso. Ele pode ser utilizado como um computador completo, servidor para aplicações de pequeno porte, servidor doméstico para automação residencial, videogame retrô e central de mídia para filmes, músicas, entre outros.
 
 <table border="0">
 <tbody>
@@ -84,7 +178,7 @@ Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Scrip
    <li> <a href="https://github.com/Epaminondaslage/SO-Debian-SBC-OrangePI">SO Debian SBC OrangePI</a>    </li>
 </ul>   
 
-# Introdução ao Shell Script em SBC's com Linux
+* Introdução ao Shell Script em SBC's com Linux
 
 Um script é um algoritmo desenvolvido para executar uma tarefa específica, utilizando comandos do bash e executáveis do sistema operacional. O shell é um programa que permite a interação direta do usuário com o sistema operacional, interpretando comandos enviados ao Kernel para executar ações desejadas.
 
@@ -128,45 +222,7 @@ O Node-RED é uma plataforma de desenvolvimento de fluxo de código aberto basea
  <li><a href="https://github.com/Epaminondaslage/HomeAssistant-NodeRED">Home Assistant - Node-RED</a></li>
 </ul>
 
-# Protocolo de comunicação entre Plataformas - Modbus
-
-O Modbus é um protocolo de comunicação utilizado amplamente na automação industrial para troca de dados entre dispositivos de controle, como Controladores Lógicos Programáveis (CLPs) e dispositivos de campo, como sensores e atuadores. Ele opera em uma arquitetura mestre-escravo ou cliente-servidor, onde um dispositivo mestre (ou cliente) solicita informações de um ou mais dispositivos escravos (ou servidores). O Modbus é baseado em uma estrutura de mensagens simples, com o formato de dados organizado em "registros", que podem ser de entrada, saída, de estado ou registradores analógicos. Utiliza diferentes tipos de protocolos de comunicação, incluindo Modbus RTU (transmissão de caracteres em formato binário), Modbus ASCII (transmissão de caracteres ASCII) e Modbus TCP (transmissão através de Ethernet). Sua simplicidade e ampla adoção na indústria tornam o Modbus uma opção popular para integração de dispositivos e sistemas em ambientes industriais, permitindo a coleta de dados, controle de processos e monitoramento de equipamentos de forma confiável e eficiente.
-
-<p><b>Repositórios Disponíveis</b></p>   
-<ul>
- <li><a href="https://github.com/Epaminondaslage/openplc-modbus">Home Assistant - Modbus</a></li>
-</ul>
-
-# Plataforma Home Assistant de Automação Residencial
-
-O Home Assistant é uma plataforma de automação residencial de código aberto e domótica baseada em Python. Projetado para ser executado em uma variedade de dispositivos, como Raspberry Pi, servidores Linux, Windows e macOS, o Home Assistant fornece uma solução flexível e escalável para controlar e monitorar dispositivos e sistemas domésticos inteligentes. Utilizando uma arquitetura modular, o Home Assistant suporta a integração com inúmeras marcas e protocolos populares, permitindo a interação com dispositivos como lâmpadas, termostatos, câmeras, entre outros. Os usuários podem personalizar suas automações e scripts utilizando a linguagem de configuração YAML e a interface gráfica do usuário, tornando possível criar cenários complexos de automação. A plataforma também oferece integração com assistentes de voz, como Amazon Alexa e Google Assistant, ampliando suas funcionalidades e tornando-o um hub centralizado para a automação inteligente de casas.
-
-<p><b>Repositórios Disponíveis</b></p>  
-    <ul>
-        <li><a href="https://github.com/Epaminondaslage/HomeAssistant">Home Assistant</a></li>
-        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-ESPHome">Home Assistant - ESPHome</a></li> 
-        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Telegram">Home Assistant - Telegram</a></li>
-        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-NodeMCU-MQTT">Home Assistant - NodeMCU/MQTT</a></li>
-        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Tuya">Home Assistant - Tuya</a></li>
-        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Sonoff">Home Assistant - Sonoff</a></li>
-        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-ESP32-ESP8266-ESPHome">Home Assistant-ESP32-ESP8266-ESPHome</a></li>
-        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Tasmota-MQTT">*Home Assistant - Tasmota/MQTT</a></li>
-    </ul>
-
-# Plataforma OpenPLC
-
-O OpenPLC é uma plataforma de automação industrial de código aberto, projetada para implementar Controladores Lógicos Programáveis (CLPs) de forma flexível e acessível. Compatível com diversos dispositivos de hardware, como Raspberry Pi e Arduino, o OpenPLC oferece uma solução versátil para controlar processos industriais. Sua conformidade com a norma IEC 61131-3 permite a programação utilizando linguagens padronizadas, como LD, IL e FBD, facilitando o desenvolvimento e reutilização de lógicas. 
-
-<p><b>Repositórios Disponíveis</b></p> 
-    <ul>
-        <li><a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC</a></li>
-        <li><a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/primeirodiagrama">Primeiro Diagrama OpenPLC Editor</a></li>
-        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-OpenPLC">HomeAssistant-OpenPLC</a></li>
-        <li><a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/cargaruntime">OpenPLC Runtime</a></li>
-        <li><a href="https://github.com/Epaminondaslage/Diagramas-de-comandos-eletricos-de-motores/">Diagramas de Comandos Elétricos de Motores</a></li>
-    </ul>
-
-# SCILab
+# Ambiente de Simulação - SCILab
 
 O Scilab é uma ferramenta científica de código aberto para computação numérica, que se assemelha ao MATLAB, fornecendo um ambiente computacional poderoso e aberto para aplicações científicas. Sua linguagem de programação de alto nível é voltada para análise numérica, oferecendo um ambiente de interpretação com diversas ferramentas numéricas. Com o Scilab, é possível criar algoritmos complexos em poucas linhas de código, o que o torna uma opção mais eficiente em comparação com outras linguagens como C ou C++. Essa característica torna o Scilab uma escolha popular para cientistas, engenheiros e pesquisadores que buscam uma solução eficaz para suas necessidades de computação numérica. O Scilab fornece suporte para a comunicação com dispositivos Modbus por meio de bibliotecas de comunicação ou scripts personalizados.
 
