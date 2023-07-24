@@ -57,10 +57,11 @@ Um dos principais benefícios do GitHub é permitir que os alunos criem "forks" 
 
 Na automação residencial, a escolha de plataformas de código aberto é fundamental para oferecer flexibilidade e personalização. O Home Assistant é uma excelente opção entre as várias que se apresentam no mercado, atuando como um hub de automação que suporta uma ampla variedade de dispositivos e integrações. Sua interface intuitiva e flexível permite aos usuários personalizar e automatizar tarefas residenciais de acordo com suas preferências e necessidades específicas.
 
-Escrita em Pythonpode ser executado em uma variedade de dispositivos, como Raspberry Pi, servidores Linux, Windows e macOS, o Home Assistant fornece uma solução flexível e escalável para controlar e monitorar dispositivos e sistemas domésticos inteligentes. Utilizando uma arquitetura modular, suporta a integração com inúmeras marcas e protocolos populares, permitindo a interação com dispositivos como lâmpadas, termostatos, câmeras, entre outros. Os usuários podem personalizar suas automações e scripts utilizando a linguagem de configuração YAML e a interface gráfica do usuário, tornando possível criar cenários complexos de automação. A plataforma também oferece integração com assistentes de voz, como Amazon Alexa e Google Assistant, ampliando suas funcionalidades e tornando-o um hub centralizado para a automação inteligente de casas.
+Escrita em Python pode ser executada em uma variedade de hardwares e sistemas operacionais, como Raspberry Pi, servidores Linux, Windows, macOS e máquinas virtualizadas, o Home Assistant fornece uma solução flexível e escalável para controlar e monitorar dispositivos e sistemas domésticos inteligentes. Utilizando uma arquitetura modular, suporta a integração com inúmeras marcas e protocolos populares, permitindo a interação com dispositivos como lâmpadas, termostatos, câmeras, entre outros. Os usuários podem personalizar suas automações e scripts utilizando a linguagem de configuração YAML e a interface gráfica do usuário, tornando possível criar cenários complexos de automação. A plataforma também oferece integração com assistentes de voz, como Amazon Alexa e Google Assistant, ampliando suas funcionalidades e tornando-o um hub centralizado para a automação inteligente de casas.
 
 <p><b>Repositórios Disponíveis</b></p>  
-    <ul>
+    <ul> 
+        <li><a href="https://github.com/Epaminondaslage/Automacao_Residencial">Automação Residencial</a></li>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant">Home Assistant</a></li>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Telegram">Home Assistant - Telegram</a></li>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Tuya">Home Assistant - Tuya</a></li>
@@ -77,6 +78,7 @@ O OpenPLC é uma plataforma de automação industrial de código aberto, projeta
 
 <p><b>Repositórios Disponíveis</b></p> 
     <ul>
+        <li><a href=https://github.com/Epaminondaslage/Automacao_Industrial">Automação Industrial</a></li>
         <li><a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC</a></li>
         <li><a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/primeirodiagrama">Primeiro Diagrama OpenPLC Editor</a></li>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-OpenPLC">HomeAssistant-OpenPLC</a></li>
