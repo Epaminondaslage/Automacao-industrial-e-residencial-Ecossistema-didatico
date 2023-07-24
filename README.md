@@ -124,11 +124,8 @@ A base de sustentação para as placas do KITSBC Linux foi desenvolvida e constr
 Existem diversos protocolos de comunicação utilizados em sistemas industriais e residenciais para permitir a troca de informações entre dispositivos, sensores, atuadores e sistemas de controle. Iremos utilizar alguns dos protocolos mais comuns:
 
 * Modbus: Um protocolo de comunicação serial amplamente utilizado em ambientes industriais para troca de dados entre dispositivos, como controladores lógicos programáveis (PLCs) e dispositivos de campo, como sensores e atuadores.
-
 * Ethernet/IP: Um protocolo baseado em Ethernet que permite a comunicação entre dispositivos industriais. Ele é comumente usado em ambientes de automação que requerem comunicação em tempo real.
-
 * Z-Wave e Zigbee: São protocolos de comunicação sem fio utilizados em automação residencial para conectar dispositivos como sensores, atuadores e dispositivos de controle, permitindo a criação de redes de sensores e atuadores inteligentes.
-
 * Wi-Fi e Bluetooth: Embora amplamente utilizados em dispositivos de consumo, também são aplicados em automação residencial, permitindo a conectividade de dispositivos inteligentes à rede local e ao controle por meio de aplicativos móveis.
 
 É importante escolher o protocolo de comunicação adequado de acordo com a aplicação específica, levando em consideração a distância de comunicação, a velocidade necessária, os requisitos de segurança e a compatibilidade com os dispositivos e sistemas envolvidos. Além disso, com a evolução contínua da tecnologia, novos protocolos podem surgir para atender às necessidades emergentes de automação industrial e residencial.
@@ -186,7 +183,7 @@ O Bash (Bourne Again Shell) é um shell do Unix e também uma linguagem de progr
 
 O shell script possui vantagens, pois pode ser facilmente combinado com outros comandos e utilitários do Linux, aproveitando os recursos disponíveis no sistema operacional e suas ferramentas de linha de comando. Além disso, ele suporta recursos avançados como funções, expressões regulares, redirecionamento de entrada/saída, processamento de sinais e manipulação de arquivos, tornando-o poderoso para automação e tarefas complexas.
 
-Em resumo, as principais aplicações dessa linguagem são:
+As principais aplicações dessa linguagem são:
 
     * manipular arquivos;
     * monitorar o sistema operacional;
