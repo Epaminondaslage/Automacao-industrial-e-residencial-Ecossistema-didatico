@@ -3,7 +3,7 @@
 # Índice 
 
 * [Introdução](#Introdução)
-* [GitHub:Plataforma de Divulgação](#GitHub:Plataforma-de-Divulgação)
+* [GitHub-Plataforma de Divulgação](#GitHub-Plataforma-de-Divulgação)
 * [Plataforma de Automação Residencial](#Plataforma-de-Automação-Residencial)
 * [Plataforma Automação Industrial](#Plataforma-Automação-Industrial)
 * [Kit didáticos](#Kit-didáticos)
