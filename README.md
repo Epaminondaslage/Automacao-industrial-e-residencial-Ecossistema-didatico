@@ -3,7 +3,7 @@
 # Índice 
 
 * [Introdução](#Introdução)
-* [Plataforma de Divulgação: GitHub](#Plataforma-de-Divulgação:-GitHub)
+* [GitHub:Plataforma de Divulgação](#GitHub:Plataforma-de-Divulgação)
 * [Plataforma de Automação Residencial](#Plataforma-de-Automação-Residencial)
 * [Plataforma Automação Industrial](#Plataforma-Automação-Industrial)
 * [Kit didáticos](#Kit-didáticos)
@@ -40,31 +40,29 @@ O ecossistema de automação industrial e residencial didático proposto apresen
 
 A utilização dessas plataformas, protocolos de comunicação e linguagens de programação permitem que os alunos apliquem seus conhecimentos em projetos práticos, preparando-os para futuras carreiras na área de automação e controle. A integração de sensores comerciais MQTT, Zigbee, ESPHome e WiFi oferece diversas opções para comunicação e coleta de dados em sistemas de automação. Essa combinação de recursos permite criar soluções eficientes e versáteis para aplicações residenciais, industriais e de Internet das Coisas (IoT).
 
-# Plataforma de Divulgação: GitHub
+# GitHub:Plataforma de Divulgação
 
-A plataforma de divulgação do ecossistema de automação industrial e residencial será o GitHub. Todos os recursos, como vídeos, manuais, tutoriais e acesso aos ambientes de simulação, serão centralizados em repositórios separados. Os alunos poderão interagir, trocar experiências e esclarecer dúvidas associados a cada repositório. Podemos enumerar algumas vantagens em usar este ambiente: 
+A plataforma de divulgação do ecossistema de automação industrial e residencial adotada será o GitHub. Todos os recursos, como vídeos, manuais, tutoriais e acesso aos ambientes de simulação, serão centralizados em repositórios separados por aplicação. Os alunos poderão interagir, trocar experiências e esclarecer dúvidas associados a cada repositório. Podemos enumerar algumas vantagens em usar este ambiente: 
 
-* Centralização de Recursos: Vídeos, manuais, tutoriais e acesso aos ambientes de simulação em repositórios separados.
+* Centralização de Recursos: Programas, links para manuais, tutoriais, vídeos e acesso aos ambientes de simulação. Tudo em  repositórios separados por temas.
 * Interatividade: Fóruns de discussão em cada repositório para interação, troca de experiências e esclarecimento de dúvidas.
 * Controle de Versão: Possibilidade de acompanhar mudanças e colaborar de forma coletiva.
 * Integração com Ferramentas: Facilidade para integrar-se a outras ferramentas de desenvolvimento.
-* Colaboração: Permite que os alunos contribuam com novos recursos e melhorias.
-* Acesso e Privacidade: Definição de permissões de acesso aos repositórios conforme a política do projeto.
+* Colaboração: Permite que os alunos contribuam com novos recursos e melhorias ("fork" e "pull request").
+* Acesso e Privacidade: Definição de permissões de acesso aos repositórios conforme a política de cada projeto.
 
 Um dos principais benefícios do GitHub é permitir que os alunos criem "forks" dos repositórios, o que significa que eles podem fazer uma cópia do projeto original em suas contas pessoais. Ao criar um "fork", os alunos têm total liberdade para fazer modificações, melhorias e experimentar novas ideias sem afetar o repositório original. Após realizar suas modificações no "fork", eles podem propor que suas alterações sejam incorporadas ao repositório original por meio de um processo conhecido como "pull request".
 
 # Plataforma de Automação Residencial
 
-Na automação residencial, a escolha de plataformas de código aberto é fundamental para oferecer flexibilidade e personalização. O Home Assistant é uma excelente opção, atuando como um hub de automação que suporta uma ampla variedade de dispositivos e integrações. Sua interface intuitiva e flexível permite aos usuários personalizar e automatizar tarefas residenciais de acordo com suas preferências e necessidades específicas.
+Na automação residencial, a escolha de plataformas de código aberto é fundamental para oferecer flexibilidade e personalização. O Home Assistant é uma excelente opção entre as várias que se apresentam no mercado, atuando como um hub de automação que suporta uma ampla variedade de dispositivos e integrações. Sua interface intuitiva e flexível permite aos usuários personalizar e automatizar tarefas residenciais de acordo com suas preferências e necessidades específicas.
 
-O Home Assistant é uma plataforma de automação residencial de código aberto e domótica baseada em Python. Projetado para ser executado em uma variedade de dispositivos, como Raspberry Pi, servidores Linux, Windows e macOS, o Home Assistant fornece uma solução flexível e escalável para controlar e monitorar dispositivos e sistemas domésticos inteligentes. Utilizando uma arquitetura modular, o Home Assistant suporta a integração com inúmeras marcas e protocolos populares, permitindo a interação com dispositivos como lâmpadas, termostatos, câmeras, entre outros. Os usuários podem personalizar suas automações e scripts utilizando a linguagem de configuração YAML e a interface gráfica do usuário, tornando possível criar cenários complexos de automação. A plataforma também oferece integração com assistentes de voz, como Amazon Alexa e Google Assistant, ampliando suas funcionalidades e tornando-o um hub centralizado para a automação inteligente de casas.
+Escrita em Pythonpode ser executado em uma variedade de dispositivos, como Raspberry Pi, servidores Linux, Windows e macOS, o Home Assistant fornece uma solução flexível e escalável para controlar e monitorar dispositivos e sistemas domésticos inteligentes. Utilizando uma arquitetura modular, suporta a integração com inúmeras marcas e protocolos populares, permitindo a interação com dispositivos como lâmpadas, termostatos, câmeras, entre outros. Os usuários podem personalizar suas automações e scripts utilizando a linguagem de configuração YAML e a interface gráfica do usuário, tornando possível criar cenários complexos de automação. A plataforma também oferece integração com assistentes de voz, como Amazon Alexa e Google Assistant, ampliando suas funcionalidades e tornando-o um hub centralizado para a automação inteligente de casas.
 
 <p><b>Repositórios Disponíveis</b></p>  
     <ul>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant">Home Assistant</a></li>
-        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-ESPHome">Home Assistant - ESPHome</a></li> 
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Telegram">Home Assistant - Telegram</a></li>
-        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-NodeMCU-MQTT">Home Assistant - NodeMCU/MQTT</a></li>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Tuya">Home Assistant - Tuya</a></li>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Sonoff">Home Assistant - Sonoff</a></li>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-ESP32-ESP8266-ESPHome">Home Assistant - ESP32-ESP8266-ESPHome</a></li>
@@ -125,19 +123,21 @@ A base de sustentação para as placas do KITSBC Linux foi desenvolvida e constr
 
 Existem diversos protocolos de comunicação utilizados em sistemas industriais e residenciais para permitir a troca de informações entre dispositivos, sensores, atuadores e sistemas de controle. Iremos utilizar alguns dos protocolos mais comuns:
 
-Modbus: Um protocolo de comunicação serial amplamente utilizado em ambientes industriais para troca de dados entre dispositivos, como controladores lógicos programáveis (PLCs) e dispositivos de campo, como sensores e atuadores.
+* Modbus: Um protocolo de comunicação serial amplamente utilizado em ambientes industriais para troca de dados entre dispositivos, como controladores lógicos programáveis (PLCs) e dispositivos de campo, como sensores e atuadores.
 
-Ethernet/IP: Um protocolo baseado em Ethernet que permite a comunicação entre dispositivos industriais. Ele é comumente usado em ambientes de automação que requerem comunicação em tempo real.
+* Ethernet/IP: Um protocolo baseado em Ethernet que permite a comunicação entre dispositivos industriais. Ele é comumente usado em ambientes de automação que requerem comunicação em tempo real.
 
-Z-Wave e Zigbee: São protocolos de comunicação sem fio utilizados em automação residencial para conectar dispositivos como sensores, atuadores e dispositivos de controle, permitindo a criação de redes de sensores e atuadores inteligentes.
+* Z-Wave e Zigbee: São protocolos de comunicação sem fio utilizados em automação residencial para conectar dispositivos como sensores, atuadores e dispositivos de controle, permitindo a criação de redes de sensores e atuadores inteligentes.
 
-Wi-Fi e Bluetooth: Embora amplamente utilizados em dispositivos de consumo, também são aplicados em automação residencial, permitindo a conectividade de dispositivos inteligentes à rede local e ao controle por meio de aplicativos móveis.
+* Wi-Fi e Bluetooth: Embora amplamente utilizados em dispositivos de consumo, também são aplicados em automação residencial, permitindo a conectividade de dispositivos inteligentes à rede local e ao controle por meio de aplicativos móveis.
 
 É importante escolher o protocolo de comunicação adequado de acordo com a aplicação específica, levando em consideração a distância de comunicação, a velocidade necessária, os requisitos de segurança e a compatibilidade com os dispositivos e sistemas envolvidos. Além disso, com a evolução contínua da tecnologia, novos protocolos podem surgir para atender às necessidades emergentes de automação industrial e residencial.
 
 <p><b>Repositórios Disponíveis</b></p>   
 <ul>
  <li><a href="https://github.com/Epaminondaslage/openplc-modbus">Home Assistant - Modbus</a></li>
+ <li><a href="https://github.com/Epaminondaslage/HomeAssistant-ESPHome">Home Assistant - ESPHome</a></li> 
+ <li><a href="https://github.com/Epaminondaslage/HomeAssistant-NodeMCU-MQTT">Home Assistant - NodeMCU/MQTT</a></li>
 </ul>
 
 
