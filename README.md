@@ -22,17 +22,17 @@ A criação de um ecossistema de automação industrial e residencial didático 
 
 O ecossistema de automação industrial e residencial didático proposto apresenta as seguntes caracteristicas:
 
-* Conteúdos teóricos: Disponibilizar materiais de ensino, tais como vídeos, apresentações, e-books e artigos, que explicam os conceitos fundamentais de automação industrial, residencial e IoT. Esses materiais podem abordar tópicos como sensores, atuadores, redes de comunicação, protocolos de comunicação, programação de sistemas embarcados e arquiteturas de automação.
+* Conteúdos teóricos: Disponibilizar materiais de ensino, tais como, links de apresentações, programas de computadores, links de e-books e artigos, tutoriais que explicam os conceitos e procedimentos aplicados a automação industrial, residencial e IoT. Esses materiais abordam tópicos como sensores, atuadores, redes de comunicação, protocolos de comunicação, programação de sistemas embarcados e arquiteturas de automação.
 
 * Manuais e tutoriais: Oferecer guias detalhados que orientem passo a passo os alunos na construção de sistemas de automação. Esses manuais podem incluir listas de materiais, instruções de montagem, códigos de programação e dicas para a solução de problemas comuns.
 
-* Kits para laboratórios: Disponibilizar kits físicos contendo os componentes necessários para a construção dos sistemas de automação. Esses kits podem incluir sensores, atuadores, microcontroladores, placas de desenvolvimento e outros microcontoladores.
+* Kits para laboratórios: Disponibilizar ferramentas para utilização dos kits contendo os componentes e datasheets necessários para a construção dos sistemas de automação. Esses kits incluem sensores, atuadores, microcontroladores, placas de desenvolvimento e outros microcontoladores.
 
 * Ambientes fisicos e virtuais: Além dos kits físicos, é interessante fornecer ambientes virtuais de simulação nos quais os alunos possam modelar e testar seus sistemas de automação. A integração com Programas como o Scilab  permite que os alunos experimentem e cometam erros sem riscos associados a sistemas reais.
 
 * Plataforma de divulgação: Utilizar a plataforma do Github que centralize todos os recursos, como links de vídeos, manuais, tutoriais e acesso aos ambientes de simulação. Essa plataforma pode incluir fóruns de discussão, onde os alunos podem interagir, trocar experiências e esclarecer dúvidas aplicadas a cada repositório.
 
-* Projetos práticos: Proporcionar aos alunos projetos práticos desafiadores, que incentivem a aplicação dos conhecimentos adquiridos. Os projetos podem variar em complexidade, permitindo que os alunos avancem gradualmente em suas habilidades utilizando os Kits apresentados e suas evoluçoes com o desenvolver do projeto.
+* Projetos práticos: Proporcionar aos alunos projetos práticos desafiadores, que incentivem a aplicação dos conhecimentos adquiridos. Os projetos podem variar em complexidade, permitindo que os alunos avancem gradualmente em suas habilidades utilizando os Kits apresentados e suas evoluções com o desenvolver do projeto.
 
 * Avaliação e feedback: Implementar mecanismos de avaliação para acompanhar o progresso dos alunos e fornecer feedback construtivo sobre suas realizações.
 
