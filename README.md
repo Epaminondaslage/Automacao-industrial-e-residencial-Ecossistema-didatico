@@ -187,15 +187,15 @@ O shell script possui vantagens, pois pode ser facilmente combinado com outros c
 
 As principais aplicações dessa linguagem são:
 
-    * manipular arquivos;
-    * monitorar o sistema operacional;
-    * realizar automação de processos de compilação de código;
-    * executar backups de rotina;
-    * vincular programas existentes;
-    * realizar lotes de conclusão;
-    * criar ambientes para programas;
-    * executar programas
-    * Acionar GPIO's.
+* manipular arquivos;
+* monitorar o sistema operacional;
+* realizar automação de processos de compilação de código;
+* executar backups de rotina;
+* vincular programas existentes;
+* realizar lotes de conclusão;
+* criar ambientes para programas;
+* executar programas
+* Acionar GPIO's.
 
 <p><b>Repositórios Disponíveis</b></p>
 <ul>
