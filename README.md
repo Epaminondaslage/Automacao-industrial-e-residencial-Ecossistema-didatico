@@ -1,12 +1,4 @@
-<td style="width: 20%;"><img src="/img/Logo_CEFET-MG.png" width="20%"></td>
-<p><strong><span style="color: #0000ff;">Automação Industrial e Residencial</span></strong></p>
-<p><strong><span style="color: #0000ff;">Ecossistema didático com Open Software e Open Hardware</span></strong></p>
-<p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
-<a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a></p>
-<p><strong><span style="color: #0000ff;">Prof Danilo Freitas Melo</span></strong></p>
-<a href="http://lattes.cnpq.br/3410712703972723"> Currículo Lattes MELO, D. F.</a></p>
-
-<td style="width: 50%;"><img src="/img/Ecossistema Open Automação.png" width="70%" /></td>
+<td style="width: 20%;"><img src="/img/topo.png" width="100%"></td>
 
 # Índice 
 
@@ -25,6 +17,8 @@
 # Introdução
 
 O projeto disponibiliza conteúdos, manuais, tutoriais e kits para laboratórios, permitindo que os alunos projetem, montem e testem seus conhecimentos na área de automação residencial, industrial e Internet das Coisas (IoT). Os sistemas propostos permitem a modelagem, análise, projeto e teste de sistemas de controle em ambientes virtuais ou reais em escalas reduzidas.
+
+<td style="width: 50%;"><img src="/img/Ecossistema Open Automação.png" width="70%" /></td>
 
 O uso de kits didáticos é uma solução viável para superar as limitações físicas, técnicas e financeiras associadas ao uso de sistemas reais em ambiente acadêmico. Esses kits proporcionam um ambiente de aprendizado semelhante aos sistemas reais, permitindo que os alunos apliquem os conhecimentos teóricos adquiridos na prática. Com uma variedade de sensores e módulos, os alunos podem realizar experimentos e projetos, ampliando sua compreensão dos conceitos teóricos e desenvolvendo suas habilidades práticas.
 
