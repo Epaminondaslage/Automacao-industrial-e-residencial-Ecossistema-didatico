@@ -177,7 +177,7 @@ Nos nossos kits optamos em utilizar o Ubuntu para a programação em Shell Scrip
    <li> <a href="https://github.com/Epaminondaslage/SO-Debian-SBC-OrangePI">SO Debian SBC OrangePI</a>    </li>
 </ul>   
 
-* Introdução ao Shell Script em SBC's com Linux
+##Introdução ao Shell Script em SBC's com Linux
 
 Um script é um algoritmo desenvolvido para executar uma tarefa específica, utilizando comandos do bash e executáveis do sistema operacional. O shell é um programa que permite a interação direta do usuário com o sistema operacional, interpretando comandos enviados ao Kernel para executar ações desejadas.
 
