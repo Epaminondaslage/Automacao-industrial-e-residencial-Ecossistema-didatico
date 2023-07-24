@@ -7,7 +7,7 @@
 * [Plataforma de Automação Residencial](#Plataforma-de-Automação-Residencial)
 * [Plataforma Automação Industrial](#Plataforma-Automação-Industrial)
 * [Kit didáticos](#Kit-didáticos)
-* [Protocolo de comunicação entre Plataformas - Modbus](#Protocolo-de-comunicação-entre-Plataformas-Modbus)
+* [Protocolo de comunicação entre Plataformas](#Protocolo-de-comunicação-entre-Plataformas)
 * [Sistema Operacional Linux](#Sistema-Operacional-Linux)
 * [IDE Arduino](#IDE-Arduino)
 * [Automatização com Node-RED](#Automatização-com-Node-RED)
