@@ -67,7 +67,7 @@ O Home Assistant é uma plataforma de automação residencial de código aberto 
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-NodeMCU-MQTT">Home Assistant - NodeMCU/MQTT</a></li>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Tuya">Home Assistant - Tuya</a></li>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Sonoff">Home Assistant - Sonoff</a></li>
-        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-ESP32-ESP8266-ESPHome">Home Assistant-ESP32-ESP8266-ESPHome</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-ESP32-ESP8266-ESPHome">Home Assistant - ESP32-ESP8266-ESPHome</a></li>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Tasmota-MQTT">*Home Assistant - Tasmota/MQTT</a></li>
     </ul>
 
