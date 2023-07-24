@@ -40,7 +40,7 @@ O ecossistema de automação industrial e residencial didático proposto apresen
 
 A utilização dessas plataformas, protocolos de comunicação e linguagens de programação permitem que os alunos apliquem seus conhecimentos em projetos práticos, preparando-os para futuras carreiras na área de automação e controle. A integração de sensores comerciais MQTT, Zigbee, ESPHome e WiFi oferece diversas opções para comunicação e coleta de dados em sistemas de automação. Essa combinação de recursos permite criar soluções eficientes e versáteis para aplicações residenciais, industriais e de Internet das Coisas (IoT).
 
-# GitHub:Plataforma de Divulgação
+# GitHub-Plataforma de Divulgação
 
 A plataforma de divulgação do ecossistema de automação industrial e residencial adotada será o GitHub. Todos os recursos, como vídeos, manuais, tutoriais e acesso aos ambientes de simulação, serão centralizados em repositórios separados por aplicação. Os alunos poderão interagir, trocar experiências e esclarecer dúvidas associados a cada repositório. Podemos enumerar algumas vantagens em usar este ambiente: 
 
