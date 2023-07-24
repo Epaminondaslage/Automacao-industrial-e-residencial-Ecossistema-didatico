@@ -68,7 +68,8 @@ Escrita em Python pode ser executada em uma variedade de hardwares e sistemas op
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Sonoff">Home Assistant - Sonoff</a></li>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-ESP32-ESP8266-ESPHome">Home Assistant - ESP32-ESP8266-ESPHome</a></li>
         <li><a href="https://github.com/Epaminondaslage/HomeAssistant-Tasmota-MQTT">*Home Assistant - Tasmota/MQTT</a></li>
-    </ul>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-OpenPLC">HomeAssistant-OpenPLC</a></li>
+     </ul>
 
 # Plataforma Automação Industrial
 
@@ -80,9 +81,11 @@ O OpenPLC é uma plataforma de automação industrial de código aberto, projeta
     <ul>
         <li><a href=https://github.com/Epaminondaslage/Automacao_Industrial">Automação Industrial</a></li>
         <li><a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC</a></li>
+        <li><a href="https://github.com/Epaminondaslage/openplc-modbus">OpenPLC - Modbus</a></li>
         <li><a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/primeirodiagrama">Primeiro Diagrama OpenPLC Editor</a></li>
-        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-OpenPLC">HomeAssistant-OpenPLC</a></li>
         <li><a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/cargaruntime">OpenPLC Runtime</a></li>
+        <li><a href="https://github.com/Epaminondaslage/HomeAssistant-OpenPLC">HomeAssistant-OpenPLC</a></li>
+        
         <li><a href="https://github.com/Epaminondaslage/Diagramas-de-comandos-eletricos-de-motores/">Diagramas de Comandos Elétricos de Motores</a></li>
     </ul>
  
