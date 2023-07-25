@@ -79,7 +79,7 @@ O OpenPLC é uma plataforma de automação industrial de código aberto, projeta
 
 <p><b>Repositórios Disponíveis</b></p> 
     <ul>
-        <li><a href=https://github.com/Epaminondaslage/Automacao_Industrial">Automação Industrial</a></li>
+        <li><a href="https://github.com/Epaminondaslage/Automacao_Industrial">Automação Industrial</a></li>
         <li><a href="https://github.com/Epaminondaslage/OpenPLC">OpenPLC</a></li>
         <li><a href="https://github.com/Epaminondaslage/openplc-modbus">OpenPLC - Modbus</a></li>
         <li><a href="https://github.com/Epaminondaslage/OpenPLC/tree/master/primeirodiagrama">Primeiro Diagrama OpenPLC Editor</a></li>
