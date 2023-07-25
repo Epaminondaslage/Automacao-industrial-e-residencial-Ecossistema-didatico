@@ -16,11 +16,11 @@
 
 # Introdução
 
-O objetivo principal do ecossistema de automação industrial e residencial didático é capacitar os alunos a desenvolverem competências para projetar, implementar e solucionar problemas em sistemas de automação, preparando-os para o mercado de trabalho e para futuras pesquisas na área. Além disso, essa abordagem prática e participativa tende a despertar o interesse dos estudantes, tornando o aprendizado mais envolvente e efetivo.
+O objetivo principal do ecossistema didático de automação industrial e residencial  é capacitar os alunos a desenvolverem competências para projetar, implementar e solucionar problemas em sistemas de automação, preparando-os para o mercado de trabalho e para futuras pesquisas na área. Além disso, essa abordagem prática e participativa tende a despertar o interesse dos estudantes, tornando o aprendizado mais envolvente e efetivo.
 
-A criação de um ecossistema de automação industrial e residencial didático é uma iniciativa muito valiosa para promover o aprendizado e o desenvolvimento de habilidades na área de automação e Internet das Coisas (IoT). Esse tipo de projeto visa fornecer aos alunos uma experiência prática e hands-on, permitindo que eles adquiram conhecimentos teóricos e apliquem-nos na prática por meio de atividades de modelagem, montagem e teste de sistemas de controle.
+A criação de um ecossistema é uma iniciativa muito valiosa para promover o aprendizado e o desenvolvimento de habilidades na área de automação e Internet das Coisas (IoT). Esse tipo de projeto visa fornecer aos alunos uma experiência prática e hands-on, permitindo que eles adquiram conhecimentos teóricos e apliquem-nos na prática por meio de atividades de modelagem, montagem e teste de sistemas de controle.
 
-O ecossistema de automação industrial e residencial didático proposto apresenta as seguntes caracteristicas:
+O ecossistema didático de automação industrial e residencial  proposto apresenta as seguntes caracteristicas:
 
 * Conteúdos teóricos: Disponibilizar materiais de ensino, tais como, links de apresentações, programas de computadores, links de e-books e artigos, tutoriais que explicam os conceitos e procedimentos aplicados a automação industrial, residencial e IoT. Esses materiais abordam tópicos como sensores, atuadores, redes de comunicação, protocolos de comunicação, programação de sistemas embarcados e arquiteturas de automação.
 
