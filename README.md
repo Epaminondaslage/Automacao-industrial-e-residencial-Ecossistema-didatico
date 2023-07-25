@@ -1,4 +1,4 @@
-<td style="width: 20%;"><img src="/img/top_ecossistema.png" width="100%"></td>
+ <td style="width: 20%;"><img src="/img/top_ecossistema.png" width="100%"></td>
 
 # Índice 
 
